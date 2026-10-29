@@ -1,0 +1,5471 @@
+{
+ "category": {
+  "key": "Hearts",
+  "slug": "hearts",
+  "labels": {
+   "en": "Hearts",
+   "es": "Corazones",
+   "pt": "Corações",
+   "de": "Herzen",
+   "ja": "ハート",
+   "zh": "爱心"
+  },
+  "count": 142,
+  "fontvibe_page": "https://fontvibe.ai/tools/heart-symbol",
+  "dedicated_page": true
+ },
+ "symbols": [
+  {
+   "id": "sym_00001",
+   "text": "♡",
+   "categories": [
+    "Hearts",
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2661"
+   ],
+   "unicode_names": [
+    "WHITE HEART SUIT"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00002",
+   "text": "♥",
+   "categories": [
+    "Hearts",
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2665"
+   ],
+   "unicode_names": [
+    "BLACK HEART SUIT"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "heart suit",
+   "alt_code": "Alt+3"
+  },
+  {
+   "id": "sym_00003",
+   "text": "❤",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2764"
+   ],
+   "unicode_names": [
+    "HEAVY BLACK HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "red heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00004",
+   "text": "🤍",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F90D"
+   ],
+   "unicode_names": [
+    "WHITE HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs"
+   ],
+   "ages": [
+    "12.0"
+   ],
+   "unicode_version": "12.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "white heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00005",
+   "text": "🖤",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F5A4"
+   ],
+   "unicode_names": [
+    "BLACK HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "9.0"
+   ],
+   "unicode_version": "9.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "black heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00006",
+   "text": "💕",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F495"
+   ],
+   "unicode_names": [
+    "TWO HEARTS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "two hearts",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00007",
+   "text": "💖",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F496"
+   ],
+   "unicode_names": [
+    "SPARKLING HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "sparkling heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00008",
+   "text": "💗",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F497"
+   ],
+   "unicode_names": [
+    "GROWING HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "growing heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00009",
+   "text": "💓",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F493"
+   ],
+   "unicode_names": [
+    "BEATING HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "beating heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00010",
+   "text": "💞",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F49E"
+   ],
+   "unicode_names": [
+    "REVOLVING HEARTS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "revolving hearts",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00011",
+   "text": "💘",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F498"
+   ],
+   "unicode_names": [
+    "HEART WITH ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "heart with arrow",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00012",
+   "text": "❥",
+   "categories": [
+    "Hearts",
+    "Bullets"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2765"
+   ],
+   "unicode_names": [
+    "ROTATED HEAVY BLACK HEART BULLET"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00013",
+   "text": "❣",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2763"
+   ],
+   "unicode_names": [
+    "HEAVY HEART EXCLAMATION MARK ORNAMENT"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "heart exclamation",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00014",
+   "text": "ღ",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+10E6"
+   ],
+   "unicode_names": [
+    "GEORGIAN LETTER GHAN"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Georgian"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00015",
+   "text": "۵",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+06F5"
+   ],
+   "unicode_names": [
+    "EXTENDED ARABIC-INDIC DIGIT FIVE"
+   ],
+   "general_categories": [
+    "Nd"
+   ],
+   "blocks": [
+    "Arabic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00016",
+   "text": "♡̆̈",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+2661",
+    "U+0306",
+    "U+0308"
+   ],
+   "unicode_names": [
+    "WHITE HEART SUIT",
+    "COMBINING BREVE",
+    "COMBINING DIAERESIS"
+   ],
+   "general_categories": [
+    "So",
+    "Mn",
+    "Mn"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Combining Diacritical Marks",
+    "Combining Diacritical Marks"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00017",
+   "text": "𝓛𝓸𝓿𝓮",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 4,
+   "codepoints": [
+    "U+1D4DB",
+    "U+1D4F8",
+    "U+1D4FF",
+    "U+1D4EE"
+   ],
+   "unicode_names": [
+    "MATHEMATICAL BOLD SCRIPT CAPITAL L",
+    "MATHEMATICAL BOLD SCRIPT SMALL O",
+    "MATHEMATICAL BOLD SCRIPT SMALL V",
+    "MATHEMATICAL BOLD SCRIPT SMALL E"
+   ],
+   "general_categories": [
+    "Lu",
+    "Ll",
+    "Ll",
+    "Ll"
+   ],
+   "blocks": [
+    "Mathematical Alphanumeric Symbols",
+    "Mathematical Alphanumeric Symbols",
+    "Mathematical Alphanumeric Symbols",
+    "Mathematical Alphanumeric Symbols"
+   ],
+   "ages": [
+    "3.1",
+    "3.1",
+    "3.1",
+    "3.1"
+   ],
+   "unicode_version": "3.1",
+   "emoji": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00018",
+   "text": "♥️",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+2665",
+    "U+FE0F"
+   ],
+   "unicode_names": [
+    "BLACK HEART SUIT",
+    "VARIATION SELECTOR-16"
+   ],
+   "general_categories": [
+    "So",
+    "Mn"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Variation Selectors"
+   ],
+   "ages": [
+    "1.1",
+    "3.2"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    true,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "heart suit",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00019",
+   "text": "❦",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2766"
+   ],
+   "unicode_names": [
+    "FLORAL HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00020",
+   "text": "❧",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2767"
+   ],
+   "unicode_names": [
+    "ROTATED FLORAL HEART BULLET"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00021",
+   "text": "♥︎",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+2665",
+    "U+FE0E"
+   ],
+   "unicode_names": [
+    "BLACK HEART SUIT",
+    "VARIATION SELECTOR-15"
+   ],
+   "general_categories": [
+    "So",
+    "Mn"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Variation Selectors"
+   ],
+   "ages": [
+    "1.1",
+    "3.2"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    true,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00022",
+   "text": "♡︎",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+2661",
+    "U+FE0E"
+   ],
+   "unicode_names": [
+    "WHITE HEART SUIT",
+    "VARIATION SELECTOR-15"
+   ],
+   "general_categories": [
+    "So",
+    "Mn"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Variation Selectors"
+   ],
+   "ages": [
+    "1.1",
+    "3.2"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00023",
+   "text": "❤️",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+2764",
+    "U+FE0F"
+   ],
+   "unicode_names": [
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16"
+   ],
+   "general_categories": [
+    "So",
+    "Mn"
+   ],
+   "blocks": [
+    "Dingbats",
+    "Variation Selectors"
+   ],
+   "ages": [
+    "1.1",
+    "3.2"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    true,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "red heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00024",
+   "text": "🧡",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F9E1"
+   ],
+   "unicode_names": [
+    "ORANGE HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "orange heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00025",
+   "text": "💛",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F49B"
+   ],
+   "unicode_names": [
+    "YELLOW HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "yellow heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00026",
+   "text": "💚",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F49A"
+   ],
+   "unicode_names": [
+    "GREEN HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "green heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00027",
+   "text": "💙",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F499"
+   ],
+   "unicode_names": [
+    "BLUE HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "blue heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00028",
+   "text": "💜",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F49C"
+   ],
+   "unicode_names": [
+    "PURPLE HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "purple heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00029",
+   "text": "🩷",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1FA77"
+   ],
+   "unicode_names": [
+    "PINK HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Symbols and Pictographs Extended-A"
+   ],
+   "ages": [
+    "15.0"
+   ],
+   "unicode_version": "15.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "pink heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00030",
+   "text": "🩵",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1FA75"
+   ],
+   "unicode_names": [
+    "LIGHT BLUE HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Symbols and Pictographs Extended-A"
+   ],
+   "ages": [
+    "15.0"
+   ],
+   "unicode_version": "15.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "light blue heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00031",
+   "text": "🤎",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F90E"
+   ],
+   "unicode_names": [
+    "BROWN HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs"
+   ],
+   "ages": [
+    "12.0"
+   ],
+   "unicode_version": "12.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "brown heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00032",
+   "text": "🩶",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1FA76"
+   ],
+   "unicode_names": [
+    "GREY HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Symbols and Pictographs Extended-A"
+   ],
+   "ages": [
+    "15.0"
+   ],
+   "unicode_version": "15.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "grey heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00033",
+   "text": "💔",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F494"
+   ],
+   "unicode_names": [
+    "BROKEN HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "broken heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00034",
+   "text": "❣️",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+2763",
+    "U+FE0F"
+   ],
+   "unicode_names": [
+    "HEAVY HEART EXCLAMATION MARK ORNAMENT",
+    "VARIATION SELECTOR-16"
+   ],
+   "general_categories": [
+    "So",
+    "Mn"
+   ],
+   "blocks": [
+    "Dingbats",
+    "Variation Selectors"
+   ],
+   "ages": [
+    "1.1",
+    "3.2"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    true,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "heart exclamation",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00035",
+   "text": "🫶",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1FAF6"
+   ],
+   "unicode_names": [
+    "HEART HANDS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Symbols and Pictographs Extended-A"
+   ],
+   "ages": [
+    "14.0"
+   ],
+   "unicode_version": "14.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "heart hands",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00036",
+   "text": "🫀",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1FAC0"
+   ],
+   "unicode_names": [
+    "ANATOMICAL HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Symbols and Pictographs Extended-A"
+   ],
+   "ages": [
+    "13.0"
+   ],
+   "unicode_version": "13.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "anatomical heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00037",
+   "text": "💝",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F49D"
+   ],
+   "unicode_names": [
+    "HEART WITH RIBBON"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "heart with ribbon",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00038",
+   "text": "💟",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F49F"
+   ],
+   "unicode_names": [
+    "HEART DECORATION"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "heart decoration",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00039",
+   "text": "💌",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F48C"
+   ],
+   "unicode_names": [
+    "LOVE LETTER"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "love letter",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00040",
+   "text": "💒",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F492"
+   ],
+   "unicode_names": [
+    "WEDDING"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "wedding",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00041",
+   "text": "👩‍❤️‍👨",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 6,
+   "codepoints": [
+    "U+1F469",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN"
+   ],
+   "general_categories": [
+    "So",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true,
+    false,
+    true,
+    false,
+    false,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    false,
+    false,
+    false,
+    false,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00042",
+   "text": "💏",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F48F"
+   ],
+   "unicode_names": [
+    "KISS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "kiss",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00043",
+   "text": "💑",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F491"
+   ],
+   "unicode_names": [
+    "COUPLE WITH HEART"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00044",
+   "text": "😍",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F60D"
+   ],
+   "unicode_names": [
+    "SMILING FACE WITH HEART-SHAPED EYES"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Emoticons"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "smiling face with heart-eyes",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00045",
+   "text": "🥰",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F970"
+   ],
+   "unicode_names": [
+    "SMILING FACE WITH SMILING EYES AND THREE HEARTS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs"
+   ],
+   "ages": [
+    "11.0"
+   ],
+   "unicode_version": "11.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "smiling face with hearts",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00046",
+   "text": "😘",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F618"
+   ],
+   "unicode_names": [
+    "FACE THROWING A KISS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Emoticons"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "face blowing a kiss",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00047",
+   "text": "😻",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F63B"
+   ],
+   "unicode_names": [
+    "SMILING CAT FACE WITH HEART-SHAPED EYES"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Emoticons"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "smiling cat with heart-eyes",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00048",
+   "text": "💋",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F48B"
+   ],
+   "unicode_names": [
+    "KISS MARK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "kiss mark",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00049",
+   "text": "☙",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2619"
+   ],
+   "unicode_names": [
+    "REVERSED ROTATED FLORAL HEART BULLET"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "3.0"
+   ],
+   "unicode_version": "3.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00050",
+   "text": "ෆ",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+0DC6"
+   ],
+   "unicode_names": [
+    "SINHALA LETTER FAYANNA"
+   ],
+   "general_categories": [
+    "Lo"
+   ],
+   "blocks": [
+    "Sinhala"
+   ],
+   "ages": [
+    "3.0"
+   ],
+   "unicode_version": "3.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00051",
+   "text": "ꨄ",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+AA04"
+   ],
+   "unicode_names": [
+    "CHAM LETTER AI"
+   ],
+   "general_categories": [
+    "Lo"
+   ],
+   "blocks": [
+    "Cham"
+   ],
+   "ages": [
+    "5.1"
+   ],
+   "unicode_version": "5.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00052",
+   "text": "ᰔ",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1C14"
+   ],
+   "unicode_names": [
+    "LEPCHA LETTER BLA"
+   ],
+   "general_categories": [
+    "Lo"
+   ],
+   "blocks": [
+    "Lepcha"
+   ],
+   "ages": [
+    "5.1"
+   ],
+   "unicode_version": "5.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00053",
+   "text": "ᥫ",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+196B"
+   ],
+   "unicode_names": [
+    "TAI LE LETTER E"
+   ],
+   "general_categories": [
+    "Lo"
+   ],
+   "blocks": [
+    "Tai Le"
+   ],
+   "ages": [
+    "4.0"
+   ],
+   "unicode_version": "4.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00054",
+   "text": "૮",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+0AEE"
+   ],
+   "unicode_names": [
+    "GUJARATI DIGIT EIGHT"
+   ],
+   "general_categories": [
+    "Nd"
+   ],
+   "blocks": [
+    "Gujarati"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00055",
+   "text": "❤︎",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+2764",
+    "U+FE0E"
+   ],
+   "unicode_names": [
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-15"
+   ],
+   "general_categories": [
+    "So",
+    "Mn"
+   ],
+   "blocks": [
+    "Dingbats",
+    "Variation Selectors"
+   ],
+   "ages": [
+    "1.1",
+    "3.2"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    true,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00056",
+   "text": "❥︎",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+2765",
+    "U+FE0E"
+   ],
+   "unicode_names": [
+    "ROTATED HEAVY BLACK HEART BULLET",
+    "VARIATION SELECTOR-15"
+   ],
+   "general_categories": [
+    "So",
+    "Mn"
+   ],
+   "blocks": [
+    "Dingbats",
+    "Variation Selectors"
+   ],
+   "ages": [
+    "1.1",
+    "3.2"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00057",
+   "text": "❦︎",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+2766",
+    "U+FE0E"
+   ],
+   "unicode_names": [
+    "FLORAL HEART",
+    "VARIATION SELECTOR-15"
+   ],
+   "general_categories": [
+    "So",
+    "Mn"
+   ],
+   "blocks": [
+    "Dingbats",
+    "Variation Selectors"
+   ],
+   "ages": [
+    "1.1",
+    "3.2"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00058",
+   "text": "💕︎",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+1F495",
+    "U+FE0E"
+   ],
+   "unicode_names": [
+    "TWO HEARTS",
+    "VARIATION SELECTOR-15"
+   ],
+   "general_categories": [
+    "So",
+    "Mn"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Variation Selectors"
+   ],
+   "ages": [
+    "6.0",
+    "3.2"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true,
+    false
+   ],
+   "emoji_presentation": [
+    true,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00059",
+   "text": "❤‍🔥",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+2764",
+    "U+200D",
+    "U+1F525"
+   ],
+   "unicode_names": [
+    "HEAVY BLACK HEART",
+    "ZERO WIDTH JOINER",
+    "FIRE"
+   ],
+   "general_categories": [
+    "So",
+    "Cf",
+    "So"
+   ],
+   "blocks": [
+    "Dingbats",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true,
+    false,
+    true
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    true
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "heart on fire",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00060",
+   "text": "❤‍🩹",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+2764",
+    "U+200D",
+    "U+1FA79"
+   ],
+   "unicode_names": [
+    "HEAVY BLACK HEART",
+    "ZERO WIDTH JOINER",
+    "ADHESIVE BANDAGE"
+   ],
+   "general_categories": [
+    "So",
+    "Cf",
+    "So"
+   ],
+   "blocks": [
+    "Dingbats",
+    "General Punctuation",
+    "Symbols and Pictographs Extended-A"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "12.0"
+   ],
+   "unicode_version": "12.0",
+   "emoji": [
+    true,
+    false,
+    true
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    true
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "mending heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00061",
+   "text": "｡ﾟ♡",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+FF61",
+    "U+FF9F",
+    "U+2661"
+   ],
+   "unicode_names": [
+    "HALFWIDTH IDEOGRAPHIC FULL STOP",
+    "HALFWIDTH KATAKANA SEMI-VOICED SOUND MARK",
+    "WHITE HEART SUIT"
+   ],
+   "general_categories": [
+    "Po",
+    "Lm",
+    "So"
+   ],
+   "blocks": [
+    "Halfwidth and Fullwidth Forms",
+    "Halfwidth and Fullwidth Forms",
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00062",
+   "text": "♡‧₊˚",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 4,
+   "codepoints": [
+    "U+2661",
+    "U+2027",
+    "U+208A",
+    "U+02DA"
+   ],
+   "unicode_names": [
+    "WHITE HEART SUIT",
+    "HYPHENATION POINT",
+    "SUBSCRIPT PLUS SIGN",
+    "RING ABOVE"
+   ],
+   "general_categories": [
+    "So",
+    "Po",
+    "Sm",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "General Punctuation",
+    "Superscripts and Subscripts",
+    "Spacing Modifier Letters"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00063",
+   "text": "˚₊‧♡",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 4,
+   "codepoints": [
+    "U+02DA",
+    "U+208A",
+    "U+2027",
+    "U+2661"
+   ],
+   "unicode_names": [
+    "RING ABOVE",
+    "SUBSCRIPT PLUS SIGN",
+    "HYPHENATION POINT",
+    "WHITE HEART SUIT"
+   ],
+   "general_categories": [
+    "Sk",
+    "Sm",
+    "Po",
+    "So"
+   ],
+   "blocks": [
+    "Spacing Modifier Letters",
+    "Superscripts and Subscripts",
+    "General Punctuation",
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00064",
+   "text": "⋆♡⋆",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+22C6",
+    "U+2661",
+    "U+22C6"
+   ],
+   "unicode_names": [
+    "STAR OPERATOR",
+    "WHITE HEART SUIT",
+    "STAR OPERATOR"
+   ],
+   "general_categories": [
+    "Sm",
+    "So",
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators",
+    "Miscellaneous Symbols",
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00065",
+   "text": "⊹♡⊹",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+22B9",
+    "U+2661",
+    "U+22B9"
+   ],
+   "unicode_names": [
+    "HERMITIAN CONJUGATE MATRIX",
+    "WHITE HEART SUIT",
+    "HERMITIAN CONJUGATE MATRIX"
+   ],
+   "general_categories": [
+    "Sm",
+    "So",
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators",
+    "Miscellaneous Symbols",
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00066",
+   "text": "·˚♡",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+00B7",
+    "U+02DA",
+    "U+2661"
+   ],
+   "unicode_names": [
+    "MIDDLE DOT",
+    "RING ABOVE",
+    "WHITE HEART SUIT"
+   ],
+   "general_categories": [
+    "Po",
+    "Sk",
+    "So"
+   ],
+   "blocks": [
+    "Latin-1 Supplement",
+    "Spacing Modifier Letters",
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00067",
+   "text": "♡｡",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+2661",
+    "U+FF61"
+   ],
+   "unicode_names": [
+    "WHITE HEART SUIT",
+    "HALFWIDTH IDEOGRAPHIC FULL STOP"
+   ],
+   "general_categories": [
+    "So",
+    "Po"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Halfwidth and Fullwidth Forms"
+   ],
+   "ages": [
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00068",
+   "text": "｡♡",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+FF61",
+    "U+2661"
+   ],
+   "unicode_names": [
+    "HALFWIDTH IDEOGRAPHIC FULL STOP",
+    "WHITE HEART SUIT"
+   ],
+   "general_categories": [
+    "Po",
+    "So"
+   ],
+   "blocks": [
+    "Halfwidth and Fullwidth Forms",
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00069",
+   "text": "˖°♡",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+02D6",
+    "U+00B0",
+    "U+2661"
+   ],
+   "unicode_names": [
+    "MODIFIER LETTER PLUS SIGN",
+    "DEGREE SIGN",
+    "WHITE HEART SUIT"
+   ],
+   "general_categories": [
+    "Sk",
+    "So",
+    "So"
+   ],
+   "blocks": [
+    "Spacing Modifier Letters",
+    "Latin-1 Supplement",
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00070",
+   "text": "♡°˖",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+2661",
+    "U+00B0",
+    "U+02D6"
+   ],
+   "unicode_names": [
+    "WHITE HEART SUIT",
+    "DEGREE SIGN",
+    "MODIFIER LETTER PLUS SIGN"
+   ],
+   "general_categories": [
+    "So",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Latin-1 Supplement",
+    "Spacing Modifier Letters"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00071",
+   "text": "✧♡✧",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+2727",
+    "U+2661",
+    "U+2727"
+   ],
+   "unicode_names": [
+    "WHITE FOUR POINTED STAR",
+    "WHITE HEART SUIT",
+    "WHITE FOUR POINTED STAR"
+   ],
+   "general_categories": [
+    "So",
+    "So",
+    "So"
+   ],
+   "blocks": [
+    "Dingbats",
+    "Miscellaneous Symbols",
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00072",
+   "text": "♡~",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+2661",
+    "U+007E"
+   ],
+   "unicode_names": [
+    "WHITE HEART SUIT",
+    "TILDE"
+   ],
+   "general_categories": [
+    "So",
+    "Sm"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Basic Latin"
+   ],
+   "ages": [
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00073",
+   "text": "~♡",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+007E",
+    "U+2661"
+   ],
+   "unicode_names": [
+    "TILDE",
+    "WHITE HEART SUIT"
+   ],
+   "general_categories": [
+    "Sm",
+    "So"
+   ],
+   "blocks": [
+    "Basic Latin",
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00074",
+   "text": "♡♡♡",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+2661",
+    "U+2661",
+    "U+2661"
+   ],
+   "unicode_names": [
+    "WHITE HEART SUIT",
+    "WHITE HEART SUIT",
+    "WHITE HEART SUIT"
+   ],
+   "general_categories": [
+    "So",
+    "So",
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Miscellaneous Symbols",
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00075",
+   "text": "♡ᐝ",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+2661",
+    "U+141D"
+   ],
+   "unicode_names": [
+    "WHITE HEART SUIT",
+    "CANADIAN SYLLABICS Y-CREE W"
+   ],
+   "general_categories": [
+    "So",
+    "Lo"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Unified Canadian Aboriginal Syllabics"
+   ],
+   "ages": [
+    "1.1",
+    "3.0"
+   ],
+   "unicode_version": "3.0",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00076",
+   "text": "ᐝ♡",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+141D",
+    "U+2661"
+   ],
+   "unicode_names": [
+    "CANADIAN SYLLABICS Y-CREE W",
+    "WHITE HEART SUIT"
+   ],
+   "general_categories": [
+    "Lo",
+    "So"
+   ],
+   "blocks": [
+    "Unified Canadian Aboriginal Syllabics",
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "3.0",
+    "1.1"
+   ],
+   "unicode_version": "3.0",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00077",
+   "text": "⁺˚⋆♡",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 4,
+   "codepoints": [
+    "U+207A",
+    "U+02DA",
+    "U+22C6",
+    "U+2661"
+   ],
+   "unicode_names": [
+    "SUPERSCRIPT PLUS SIGN",
+    "RING ABOVE",
+    "STAR OPERATOR",
+    "WHITE HEART SUIT"
+   ],
+   "general_categories": [
+    "Sm",
+    "Sk",
+    "Sm",
+    "So"
+   ],
+   "blocks": [
+    "Superscripts and Subscripts",
+    "Spacing Modifier Letters",
+    "Mathematical Operators",
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00078",
+   "text": "♡⋆˚⁺",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 4,
+   "codepoints": [
+    "U+2661",
+    "U+22C6",
+    "U+02DA",
+    "U+207A"
+   ],
+   "unicode_names": [
+    "WHITE HEART SUIT",
+    "STAR OPERATOR",
+    "RING ABOVE",
+    "SUPERSCRIPT PLUS SIGN"
+   ],
+   "general_categories": [
+    "So",
+    "Sm",
+    "Sk",
+    "Sm"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Mathematical Operators",
+    "Spacing Modifier Letters",
+    "Superscripts and Subscripts"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00079",
+   "text": "𖤐♡",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+16910",
+    "U+2661"
+   ],
+   "unicode_names": [
+    "BAMUM LETTER PHASE-D NGKEURI",
+    "WHITE HEART SUIT"
+   ],
+   "general_categories": [
+    "Lo",
+    "So"
+   ],
+   "blocks": [
+    "Bamum Supplement",
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "6.0",
+    "1.1"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00080",
+   "text": "♡𖤐",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+2661",
+    "U+16910"
+   ],
+   "unicode_names": [
+    "WHITE HEART SUIT",
+    "BAMUM LETTER PHASE-D NGKEURI"
+   ],
+   "general_categories": [
+    "So",
+    "Lo"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Bamum Supplement"
+   ],
+   "ages": [
+    "1.1",
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00081",
+   "text": "⟡♡",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+27E1",
+    "U+2661"
+   ],
+   "unicode_names": [
+    "WHITE CONCAVE-SIDED DIAMOND",
+    "WHITE HEART SUIT"
+   ],
+   "general_categories": [
+    "Sm",
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Mathematical Symbols-A",
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "3.2",
+    "1.1"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00082",
+   "text": "♡⟡",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+2661",
+    "U+27E1"
+   ],
+   "unicode_names": [
+    "WHITE HEART SUIT",
+    "WHITE CONCAVE-SIDED DIAMOND"
+   ],
+   "general_categories": [
+    "So",
+    "Sm"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Miscellaneous Mathematical Symbols-A"
+   ],
+   "ages": [
+    "1.1",
+    "3.2"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00083",
+   "text": "♡̷",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+2661",
+    "U+0337"
+   ],
+   "unicode_names": [
+    "WHITE HEART SUIT",
+    "COMBINING SHORT SOLIDUS OVERLAY"
+   ],
+   "general_categories": [
+    "So",
+    "Mn"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Combining Diacritical Marks"
+   ],
+   "ages": [
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00084",
+   "text": "♡̸",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+2661",
+    "U+0338"
+   ],
+   "unicode_names": [
+    "WHITE HEART SUIT",
+    "COMBINING LONG SOLIDUS OVERLAY"
+   ],
+   "general_categories": [
+    "So",
+    "Mn"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Combining Diacritical Marks"
+   ],
+   "ages": [
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00085",
+   "text": "˚ෆ˚",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+02DA",
+    "U+0DC6",
+    "U+02DA"
+   ],
+   "unicode_names": [
+    "RING ABOVE",
+    "SINHALA LETTER FAYANNA",
+    "RING ABOVE"
+   ],
+   "general_categories": [
+    "Sk",
+    "Lo",
+    "Sk"
+   ],
+   "blocks": [
+    "Spacing Modifier Letters",
+    "Sinhala",
+    "Spacing Modifier Letters"
+   ],
+   "ages": [
+    "1.1",
+    "3.0",
+    "1.1"
+   ],
+   "unicode_version": "3.0",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00086",
+   "text": "ෆ⸝⸝",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+0DC6",
+    "U+2E1D",
+    "U+2E1D"
+   ],
+   "unicode_names": [
+    "SINHALA LETTER FAYANNA",
+    "RIGHT LOW PARAPHRASE BRACKET",
+    "RIGHT LOW PARAPHRASE BRACKET"
+   ],
+   "general_categories": [
+    "Lo",
+    "Pf",
+    "Pf"
+   ],
+   "blocks": [
+    "Sinhala",
+    "Supplemental Punctuation",
+    "Supplemental Punctuation"
+   ],
+   "ages": [
+    "3.0",
+    "4.1",
+    "4.1"
+   ],
+   "unicode_version": "4.1",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00087",
+   "text": "⸝⸝ෆ",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+2E1D",
+    "U+2E1D",
+    "U+0DC6"
+   ],
+   "unicode_names": [
+    "RIGHT LOW PARAPHRASE BRACKET",
+    "RIGHT LOW PARAPHRASE BRACKET",
+    "SINHALA LETTER FAYANNA"
+   ],
+   "general_categories": [
+    "Pf",
+    "Pf",
+    "Lo"
+   ],
+   "blocks": [
+    "Supplemental Punctuation",
+    "Supplemental Punctuation",
+    "Sinhala"
+   ],
+   "ages": [
+    "4.1",
+    "4.1",
+    "3.0"
+   ],
+   "unicode_version": "4.1",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00088",
+   "text": "ᡣ𐭩",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+1863",
+    "U+10B69"
+   ],
+   "unicode_names": [
+    "MONGOLIAN LETTER SIBE KA",
+    "INSCRIPTIONAL PAHLAVI LETTER YODH"
+   ],
+   "general_categories": [
+    "Lo",
+    "Lo"
+   ],
+   "blocks": [
+    "Mongolian",
+    "Inscriptional Pahlavi"
+   ],
+   "ages": [
+    "3.0",
+    "5.2"
+   ],
+   "unicode_version": "5.2",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00089",
+   "text": "໒꒱♡",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+0ED2",
+    "U+A4B1",
+    "U+2661"
+   ],
+   "unicode_names": [
+    "LAO DIGIT TWO",
+    "YI RADICAL VEP",
+    "WHITE HEART SUIT"
+   ],
+   "general_categories": [
+    "Nd",
+    "So",
+    "So"
+   ],
+   "blocks": [
+    "Lao",
+    "Yi Radicals",
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1",
+    "3.0",
+    "1.1"
+   ],
+   "unicode_version": "3.0",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00090",
+   "text": "♡꒰꒱",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+2661",
+    "U+A4B0",
+    "U+A4B1"
+   ],
+   "unicode_names": [
+    "WHITE HEART SUIT",
+    "YI RADICAL SHY",
+    "YI RADICAL VEP"
+   ],
+   "general_categories": [
+    "So",
+    "So",
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Yi Radicals",
+    "Yi Radicals"
+   ],
+   "ages": [
+    "1.1",
+    "3.0",
+    "3.0"
+   ],
+   "unicode_version": "3.0",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00091",
+   "text": "☆♡☆",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+2606",
+    "U+2661",
+    "U+2606"
+   ],
+   "unicode_names": [
+    "WHITE STAR",
+    "WHITE HEART SUIT",
+    "WHITE STAR"
+   ],
+   "general_categories": [
+    "So",
+    "So",
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Miscellaneous Symbols",
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00092",
+   "text": "♡☆♡",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+2661",
+    "U+2606",
+    "U+2661"
+   ],
+   "unicode_names": [
+    "WHITE HEART SUIT",
+    "WHITE STAR",
+    "WHITE HEART SUIT"
+   ],
+   "general_categories": [
+    "So",
+    "So",
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Miscellaneous Symbols",
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00093",
+   "text": "❥⁠~",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+2765",
+    "U+2060",
+    "U+007E"
+   ],
+   "unicode_names": [
+    "ROTATED HEAVY BLACK HEART BULLET",
+    "WORD JOINER",
+    "TILDE"
+   ],
+   "general_categories": [
+    "So",
+    "Cf",
+    "Sm"
+   ],
+   "blocks": [
+    "Dingbats",
+    "General Punctuation",
+    "Basic Latin"
+   ],
+   "ages": [
+    "1.1",
+    "3.2",
+    "1.1"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00094",
+   "text": "~⁠❥",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+007E",
+    "U+2060",
+    "U+2765"
+   ],
+   "unicode_names": [
+    "TILDE",
+    "WORD JOINER",
+    "ROTATED HEAVY BLACK HEART BULLET"
+   ],
+   "general_categories": [
+    "Sm",
+    "Cf",
+    "So"
+   ],
+   "blocks": [
+    "Basic Latin",
+    "General Punctuation",
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1",
+    "3.2",
+    "1.1"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00095",
+   "text": "ღ~",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+10E6",
+    "U+007E"
+   ],
+   "unicode_names": [
+    "GEORGIAN LETTER GHAN",
+    "TILDE"
+   ],
+   "general_categories": [
+    "Ll",
+    "Sm"
+   ],
+   "blocks": [
+    "Georgian",
+    "Basic Latin"
+   ],
+   "ages": [
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00096",
+   "text": "~ღ",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+007E",
+    "U+10E6"
+   ],
+   "unicode_names": [
+    "TILDE",
+    "GEORGIAN LETTER GHAN"
+   ],
+   "general_categories": [
+    "Sm",
+    "Ll"
+   ],
+   "blocks": [
+    "Basic Latin",
+    "Georgian"
+   ],
+   "ages": [
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00097",
+   "text": "<3",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+003C",
+    "U+0033"
+   ],
+   "unicode_names": [
+    "LESS-THAN SIGN",
+    "DIGIT THREE"
+   ],
+   "general_categories": [
+    "Sm",
+    "Nd"
+   ],
+   "blocks": [
+    "Basic Latin",
+    "Basic Latin"
+   ],
+   "ages": [
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    true
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00098",
+   "text": "</3",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+003C",
+    "U+002F",
+    "U+0033"
+   ],
+   "unicode_names": [
+    "LESS-THAN SIGN",
+    "SOLIDUS",
+    "DIGIT THREE"
+   ],
+   "general_categories": [
+    "Sm",
+    "Po",
+    "Nd"
+   ],
+   "blocks": [
+    "Basic Latin",
+    "Basic Latin",
+    "Basic Latin"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    true
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00099",
+   "text": "❤️‍🔥",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 4,
+   "codepoints": [
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F525"
+   ],
+   "unicode_names": [
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "FIRE"
+   ],
+   "general_categories": [
+    "So",
+    "Mn",
+    "Cf",
+    "So"
+   ],
+   "blocks": [
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true,
+    false,
+    false,
+    true
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "heart on fire",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00100",
+   "text": "❤️‍🩹",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 4,
+   "codepoints": [
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1FA79"
+   ],
+   "unicode_names": [
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADHESIVE BANDAGE"
+   ],
+   "general_categories": [
+    "So",
+    "Mn",
+    "Cf",
+    "So"
+   ],
+   "blocks": [
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Symbols and Pictographs Extended-A"
+   ],
+   "ages": [
+    "1.1",
+    "3.2",
+    "1.1",
+    "12.0"
+   ],
+   "unicode_version": "12.0",
+   "emoji": [
+    true,
+    false,
+    false,
+    true
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "mending heart",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00101",
+   "text": "დ",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+10D3"
+   ],
+   "unicode_names": [
+    "GEORGIAN LETTER DON"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Georgian"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00102",
+   "text": "ლ",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+10DA"
+   ],
+   "unicode_names": [
+    "GEORGIAN LETTER LAS"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Georgian"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00103",
+   "text": "ო",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+10DD"
+   ],
+   "unicode_names": [
+    "GEORGIAN LETTER ON"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Georgian"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00104",
+   "text": "Ღ",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1CA6"
+   ],
+   "unicode_names": [
+    "GEORGIAN MTAVRULI CAPITAL LETTER GHAN"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Georgian Extended"
+   ],
+   "ages": [
+    "11.0"
+   ],
+   "unicode_version": "11.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00105",
+   "text": "ᦂ",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1982"
+   ],
+   "unicode_names": [
+    "NEW TAI LUE LETTER HIGH KA"
+   ],
+   "general_categories": [
+    "Lo"
+   ],
+   "blocks": [
+    "New Tai Lue"
+   ],
+   "ages": [
+    "4.1"
+   ],
+   "unicode_version": "4.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00106",
+   "text": "ᦦ",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+19A6"
+   ],
+   "unicode_names": [
+    "NEW TAI LUE LETTER HIGH KVA"
+   ],
+   "general_categories": [
+    "Lo"
+   ],
+   "blocks": [
+    "New Tai Lue"
+   ],
+   "ages": [
+    "4.1"
+   ],
+   "unicode_version": "4.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00107",
+   "text": "Ꮼ",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+13EC"
+   ],
+   "unicode_names": [
+    "CHEROKEE LETTER WO"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Cherokee"
+   ],
+   "ages": [
+    "3.0"
+   ],
+   "unicode_version": "3.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00108",
+   "text": "ও",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+0993"
+   ],
+   "unicode_names": [
+    "BENGALI LETTER O"
+   ],
+   "general_categories": [
+    "Lo"
+   ],
+   "blocks": [
+    "Bengali"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00109",
+   "text": "ʚ",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+029A"
+   ],
+   "unicode_names": [
+    "LATIN SMALL LETTER CLOSED OPEN E"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "IPA Extensions"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00110",
+   "text": "ɞ",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+025E"
+   ],
+   "unicode_names": [
+    "LATIN SMALL LETTER CLOSED REVERSED OPEN E"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "IPA Extensions"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00111",
+   "text": "ʚɞ",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+029A",
+    "U+025E"
+   ],
+   "unicode_names": [
+    "LATIN SMALL LETTER CLOSED OPEN E",
+    "LATIN SMALL LETTER CLOSED REVERSED OPEN E"
+   ],
+   "general_categories": [
+    "Ll",
+    "Ll"
+   ],
+   "blocks": [
+    "IPA Extensions",
+    "IPA Extensions"
+   ],
+   "ages": [
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00112",
+   "text": "ᥫ᭡",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+196B",
+    "U+1B61"
+   ],
+   "unicode_names": [
+    "TAI LE LETTER E",
+    "BALINESE MUSICAL SYMBOL DONG"
+   ],
+   "general_categories": [
+    "Lo",
+    "So"
+   ],
+   "blocks": [
+    "Tai Le",
+    "Balinese"
+   ],
+   "ages": [
+    "4.0",
+    "5.0"
+   ],
+   "unicode_version": "5.0",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00113",
+   "text": "ᰔᩚ",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+1C14",
+    "U+1A5A"
+   ],
+   "unicode_names": [
+    "LEPCHA LETTER BLA",
+    "TAI THAM CONSONANT SIGN LOW PA"
+   ],
+   "general_categories": [
+    "Lo",
+    "Mn"
+   ],
+   "blocks": [
+    "Lepcha",
+    "Tai Tham"
+   ],
+   "ages": [
+    "5.1",
+    "5.2"
+   ],
+   "unicode_version": "5.2",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00114",
+   "text": "ᢉ𐭩",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+1889",
+    "U+10B69"
+   ],
+   "unicode_names": [
+    "MONGOLIAN LETTER ALI GALI KA",
+    "INSCRIPTIONAL PAHLAVI LETTER YODH"
+   ],
+   "general_categories": [
+    "Lo",
+    "Lo"
+   ],
+   "blocks": [
+    "Mongolian",
+    "Inscriptional Pahlavi"
+   ],
+   "ages": [
+    "3.0",
+    "5.2"
+   ],
+   "unicode_version": "5.2",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00115",
+   "text": "𑣲",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+118F2"
+   ],
+   "unicode_names": [
+    "WARANG CITI NUMBER NINETY"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Warang Citi"
+   ],
+   "ages": [
+    "7.0"
+   ],
+   "unicode_version": "7.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00116",
+   "text": "𖹭",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+16E6D"
+   ],
+   "unicode_names": [
+    "MEDEFAIDRIN SMALL LETTER A"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Medefaidrin"
+   ],
+   "ages": [
+    "11.0"
+   ],
+   "unicode_version": "11.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00117",
+   "text": "<𝟑",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+003C",
+    "U+1D7D1"
+   ],
+   "unicode_names": [
+    "LESS-THAN SIGN",
+    "MATHEMATICAL BOLD DIGIT THREE"
+   ],
+   "general_categories": [
+    "Sm",
+    "Nd"
+   ],
+   "blocks": [
+    "Basic Latin",
+    "Mathematical Alphanumeric Symbols"
+   ],
+   "ages": [
+    "1.1",
+    "3.1"
+   ],
+   "unicode_version": "3.1",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00118",
+   "text": "‹𝟹",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+2039",
+    "U+1D7F9"
+   ],
+   "unicode_names": [
+    "SINGLE LEFT-POINTING ANGLE QUOTATION MARK",
+    "MATHEMATICAL MONOSPACE DIGIT THREE"
+   ],
+   "general_categories": [
+    "Pi",
+    "Nd"
+   ],
+   "blocks": [
+    "General Punctuation",
+    "Mathematical Alphanumeric Symbols"
+   ],
+   "ages": [
+    "1.1",
+    "3.1"
+   ],
+   "unicode_version": "3.1",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00119",
+   "text": "🫶🏻",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+1FAF6",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "HEART HANDS",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Symbols and Pictographs Extended-A",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "14.0",
+    "8.0"
+   ],
+   "unicode_version": "14.0",
+   "emoji": [
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "heart hands: light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00120",
+   "text": "🫶🏼",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+1FAF6",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "HEART HANDS",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Symbols and Pictographs Extended-A",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "14.0",
+    "8.0"
+   ],
+   "unicode_version": "14.0",
+   "emoji": [
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "heart hands: medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00121",
+   "text": "🫶🏽",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+1FAF6",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "HEART HANDS",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Symbols and Pictographs Extended-A",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "14.0",
+    "8.0"
+   ],
+   "unicode_version": "14.0",
+   "emoji": [
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "heart hands: medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00122",
+   "text": "🫶🏾",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+1FAF6",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "HEART HANDS",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Symbols and Pictographs Extended-A",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "14.0",
+    "8.0"
+   ],
+   "unicode_version": "14.0",
+   "emoji": [
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "heart hands: medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00123",
+   "text": "🫶🏿",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+1FAF6",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "HEART HANDS",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Symbols and Pictographs Extended-A",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "14.0",
+    "8.0"
+   ],
+   "unicode_version": "14.0",
+   "emoji": [
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "heart hands: dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00124",
+   "text": "💑🏻",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+1F491",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "COUPLE WITH HEART",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00125",
+   "text": "💑🏼",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+1F491",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "COUPLE WITH HEART",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00126",
+   "text": "💑🏽",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+1F491",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "COUPLE WITH HEART",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00127",
+   "text": "💑🏾",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+1F491",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "COUPLE WITH HEART",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00128",
+   "text": "💑🏿",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+1F491",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "COUPLE WITH HEART",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00129",
+   "text": "🂱",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F0B1"
+   ],
+   "unicode_names": [
+    "PLAYING CARD ACE OF HEARTS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Playing Cards"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00130",
+   "text": "🂲",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F0B2"
+   ],
+   "unicode_names": [
+    "PLAYING CARD TWO OF HEARTS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Playing Cards"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00131",
+   "text": "🂳",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F0B3"
+   ],
+   "unicode_names": [
+    "PLAYING CARD THREE OF HEARTS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Playing Cards"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00132",
+   "text": "🂴",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F0B4"
+   ],
+   "unicode_names": [
+    "PLAYING CARD FOUR OF HEARTS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Playing Cards"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00133",
+   "text": "🂵",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F0B5"
+   ],
+   "unicode_names": [
+    "PLAYING CARD FIVE OF HEARTS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Playing Cards"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00134",
+   "text": "🂶",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F0B6"
+   ],
+   "unicode_names": [
+    "PLAYING CARD SIX OF HEARTS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Playing Cards"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00135",
+   "text": "🂷",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F0B7"
+   ],
+   "unicode_names": [
+    "PLAYING CARD SEVEN OF HEARTS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Playing Cards"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00136",
+   "text": "🂸",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F0B8"
+   ],
+   "unicode_names": [
+    "PLAYING CARD EIGHT OF HEARTS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Playing Cards"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00137",
+   "text": "🂹",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F0B9"
+   ],
+   "unicode_names": [
+    "PLAYING CARD NINE OF HEARTS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Playing Cards"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00138",
+   "text": "🂺",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F0BA"
+   ],
+   "unicode_names": [
+    "PLAYING CARD TEN OF HEARTS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Playing Cards"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00139",
+   "text": "🂻",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F0BB"
+   ],
+   "unicode_names": [
+    "PLAYING CARD JACK OF HEARTS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Playing Cards"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00140",
+   "text": "🂼",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F0BC"
+   ],
+   "unicode_names": [
+    "PLAYING CARD KNIGHT OF HEARTS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Playing Cards"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00141",
+   "text": "🂽",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F0BD"
+   ],
+   "unicode_names": [
+    "PLAYING CARD QUEEN OF HEARTS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Playing Cards"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00142",
+   "text": "🂾",
+   "categories": [
+    "Hearts"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F0BE"
+   ],
+   "unicode_names": [
+    "PLAYING CARD KING OF HEARTS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Playing Cards"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  }
+ ]
+}

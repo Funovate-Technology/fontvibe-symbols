@@ -1,0 +1,689 @@
+{
+ "category": {
+  "key": "Aesthetic",
+  "slug": "aesthetic",
+  "labels": {
+   "en": "Aesthetic",
+   "es": "Estéticos",
+   "pt": "Estéticos",
+   "de": "Ästhetisch",
+   "ja": "おしゃれ",
+   "zh": "美化"
+  },
+  "count": 18,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ "symbols": [
+  {
+   "id": "sym_01263",
+   "text": "✰",
+   "categories": [
+    "Aesthetic"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2730"
+   ],
+   "unicode_names": [
+    "SHADOWED WHITE STAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01196",
+   "text": "⊹",
+   "categories": [
+    "Lines",
+    "Aesthetic"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+22B9"
+   ],
+   "unicode_names": [
+    "HERMITIAN CONJUGATE MATRIX"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01023",
+   "text": "˚",
+   "categories": [
+    "Degree",
+    "Aesthetic"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+02DA"
+   ],
+   "unicode_names": [
+    "RING ABOVE"
+   ],
+   "general_categories": [
+    "Sk"
+   ],
+   "blocks": [
+    "Spacing Modifier Letters"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01264",
+   "text": "｡",
+   "categories": [
+    "Aesthetic"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+FF61"
+   ],
+   "unicode_names": [
+    "HALFWIDTH IDEOGRAPHIC FULL STOP"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "Halfwidth and Fullwidth Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01166",
+   "text": "✿",
+   "categories": [
+    "Flowers",
+    "Aesthetic"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+273F"
+   ],
+   "unicode_names": [
+    "BLACK FLORETTE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01265",
+   "text": "⋆｡˚",
+   "categories": [
+    "Aesthetic"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+22C6",
+    "U+FF61",
+    "U+02DA"
+   ],
+   "unicode_names": [
+    "STAR OPERATOR",
+    "HALFWIDTH IDEOGRAPHIC FULL STOP",
+    "RING ABOVE"
+   ],
+   "general_categories": [
+    "Sm",
+    "Po",
+    "Sk"
+   ],
+   "blocks": [
+    "Mathematical Operators",
+    "Halfwidth and Fullwidth Forms",
+    "Spacing Modifier Letters"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01266",
+   "text": "⟡",
+   "categories": [
+    "Aesthetic"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+27E1"
+   ],
+   "unicode_names": [
+    "WHITE CONCAVE-SIDED DIAMOND"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Miscellaneous Mathematical Symbols-A"
+   ],
+   "ages": [
+    "3.2"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01167",
+   "text": "❀",
+   "categories": [
+    "Flowers",
+    "Aesthetic"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2740"
+   ],
+   "unicode_names": [
+    "WHITE FLORETTE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01267",
+   "text": "⟢",
+   "categories": [
+    "Aesthetic"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+27E2"
+   ],
+   "unicode_names": [
+    "WHITE CONCAVE-SIDED DIAMOND WITH LEFTWARDS TICK"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Miscellaneous Mathematical Symbols-A"
+   ],
+   "ages": [
+    "3.2"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01268",
+   "text": "｡ﾟ",
+   "categories": [
+    "Aesthetic"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+FF61",
+    "U+FF9F"
+   ],
+   "unicode_names": [
+    "HALFWIDTH IDEOGRAPHIC FULL STOP",
+    "HALFWIDTH KATAKANA SEMI-VOICED SOUND MARK"
+   ],
+   "general_categories": [
+    "Po",
+    "Lm"
+   ],
+   "blocks": [
+    "Halfwidth and Fullwidth Forms",
+    "Halfwidth and Fullwidth Forms"
+   ],
+   "ages": [
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01269",
+   "text": "⊹˚",
+   "categories": [
+    "Aesthetic"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+22B9",
+    "U+02DA"
+   ],
+   "unicode_names": [
+    "HERMITIAN CONJUGATE MATRIX",
+    "RING ABOVE"
+   ],
+   "general_categories": [
+    "Sm",
+    "Sk"
+   ],
+   "blocks": [
+    "Mathematical Operators",
+    "Spacing Modifier Letters"
+   ],
+   "ages": [
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01270",
+   "text": "‧₊˚",
+   "categories": [
+    "Aesthetic"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+2027",
+    "U+208A",
+    "U+02DA"
+   ],
+   "unicode_names": [
+    "HYPHENATION POINT",
+    "SUBSCRIPT PLUS SIGN",
+    "RING ABOVE"
+   ],
+   "general_categories": [
+    "Po",
+    "Sm",
+    "Sk"
+   ],
+   "blocks": [
+    "General Punctuation",
+    "Superscripts and Subscripts",
+    "Spacing Modifier Letters"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01271",
+   "text": "⋆ ˚｡⋆",
+   "categories": [
+    "Aesthetic"
+   ],
+   "length": 5,
+   "codepoints": [
+    "U+22C6",
+    "U+0020",
+    "U+02DA",
+    "U+FF61",
+    "U+22C6"
+   ],
+   "unicode_names": [
+    "STAR OPERATOR",
+    "SPACE",
+    "RING ABOVE",
+    "HALFWIDTH IDEOGRAPHIC FULL STOP",
+    "STAR OPERATOR"
+   ],
+   "general_categories": [
+    "Sm",
+    "Zs",
+    "Sk",
+    "Po",
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators",
+    "Basic Latin",
+    "Spacing Modifier Letters",
+    "Halfwidth and Fullwidth Forms",
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00799",
+   "text": "°",
+   "categories": [
+    "Math",
+    "Degree",
+    "Aesthetic"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00B0"
+   ],
+   "unicode_names": [
+    "DEGREE SIGN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": "Alt+0176"
+  },
+  {
+   "id": "sym_01272",
+   "text": "⠀",
+   "categories": [
+    "Aesthetic"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2800"
+   ],
+   "unicode_names": [
+    "BRAILLE PATTERN BLANK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Braille Patterns"
+   ],
+   "ages": [
+    "3.0"
+   ],
+   "unicode_version": "3.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01273",
+   "text": "៚",
+   "categories": [
+    "Aesthetic"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+17DA"
+   ],
+   "unicode_names": [
+    "KHMER SIGN KOOMUUT"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "Khmer"
+   ],
+   "ages": [
+    "3.0"
+   ],
+   "unicode_version": "3.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01274",
+   "text": "⩩",
+   "categories": [
+    "Aesthetic"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2A69"
+   ],
+   "unicode_names": [
+    "TRIPLE HORIZONTAL BAR WITH TRIPLE VERTICAL STROKE"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Supplemental Mathematical Operators"
+   ],
+   "ages": [
+    "3.2"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01275",
+   "text": "⏝",
+   "categories": [
+    "Aesthetic"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+23DD"
+   ],
+   "unicode_names": [
+    "BOTTOM PARENTHESIS"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Miscellaneous Technical"
+   ],
+   "ages": [
+    "5.0"
+   ],
+   "unicode_version": "5.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  }
+ ]
+}

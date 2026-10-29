@@ -1,0 +1,514 @@
+{
+ "category": {
+  "key": "Currency",
+  "slug": "currency",
+  "labels": {
+   "en": "Currency",
+   "es": "Monedas",
+   "pt": "Moedas",
+   "de": "Währung",
+   "ja": "通貨",
+   "zh": "货币"
+  },
+  "count": 15,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ "symbols": [
+  {
+   "id": "sym_01236",
+   "text": "$",
+   "categories": [
+    "Currency"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+0024"
+   ],
+   "unicode_names": [
+    "DOLLAR SIGN"
+   ],
+   "general_categories": [
+    "Sc"
+   ],
+   "blocks": [
+    "Basic Latin"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01237",
+   "text": "€",
+   "categories": [
+    "Currency"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+20AC"
+   ],
+   "unicode_names": [
+    "EURO SIGN"
+   ],
+   "general_categories": [
+    "Sc"
+   ],
+   "blocks": [
+    "Currency Symbols"
+   ],
+   "ages": [
+    "2.1"
+   ],
+   "unicode_version": "2.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01238",
+   "text": "£",
+   "categories": [
+    "Currency"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00A3"
+   ],
+   "unicode_names": [
+    "POUND SIGN"
+   ],
+   "general_categories": [
+    "Sc"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01239",
+   "text": "¥",
+   "categories": [
+    "Currency"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00A5"
+   ],
+   "unicode_names": [
+    "YEN SIGN"
+   ],
+   "general_categories": [
+    "Sc"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01240",
+   "text": "₩",
+   "categories": [
+    "Currency"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+20A9"
+   ],
+   "unicode_names": [
+    "WON SIGN"
+   ],
+   "general_categories": [
+    "Sc"
+   ],
+   "blocks": [
+    "Currency Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01241",
+   "text": "₹",
+   "categories": [
+    "Currency"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+20B9"
+   ],
+   "unicode_names": [
+    "INDIAN RUPEE SIGN"
+   ],
+   "general_categories": [
+    "Sc"
+   ],
+   "blocks": [
+    "Currency Symbols"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01242",
+   "text": "₽",
+   "categories": [
+    "Currency"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+20BD"
+   ],
+   "unicode_names": [
+    "RUBLE SIGN"
+   ],
+   "general_categories": [
+    "Sc"
+   ],
+   "blocks": [
+    "Currency Symbols"
+   ],
+   "ages": [
+    "7.0"
+   ],
+   "unicode_version": "7.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01243",
+   "text": "¢",
+   "categories": [
+    "Currency"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00A2"
+   ],
+   "unicode_names": [
+    "CENT SIGN"
+   ],
+   "general_categories": [
+    "Sc"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01244",
+   "text": "₿",
+   "categories": [
+    "Currency"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+20BF"
+   ],
+   "unicode_names": [
+    "BITCOIN SIGN"
+   ],
+   "general_categories": [
+    "Sc"
+   ],
+   "blocks": [
+    "Currency Symbols"
+   ],
+   "ages": [
+    "10.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01245",
+   "text": "฿",
+   "categories": [
+    "Currency"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+0E3F"
+   ],
+   "unicode_names": [
+    "THAI CURRENCY SYMBOL BAHT"
+   ],
+   "general_categories": [
+    "Sc"
+   ],
+   "blocks": [
+    "Thai"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01246",
+   "text": "₫",
+   "categories": [
+    "Currency"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+20AB"
+   ],
+   "unicode_names": [
+    "DONG SIGN"
+   ],
+   "general_categories": [
+    "Sc"
+   ],
+   "blocks": [
+    "Currency Symbols"
+   ],
+   "ages": [
+    "2.0"
+   ],
+   "unicode_version": "2.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01247",
+   "text": "₴",
+   "categories": [
+    "Currency"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+20B4"
+   ],
+   "unicode_names": [
+    "HRYVNIA SIGN"
+   ],
+   "general_categories": [
+    "Sc"
+   ],
+   "blocks": [
+    "Currency Symbols"
+   ],
+   "ages": [
+    "4.1"
+   ],
+   "unicode_version": "4.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01248",
+   "text": "₦",
+   "categories": [
+    "Currency"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+20A6"
+   ],
+   "unicode_names": [
+    "NAIRA SIGN"
+   ],
+   "general_categories": [
+    "Sc"
+   ],
+   "blocks": [
+    "Currency Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01249",
+   "text": "₱",
+   "categories": [
+    "Currency"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+20B1"
+   ],
+   "unicode_names": [
+    "PESO SIGN"
+   ],
+   "general_categories": [
+    "Sc"
+   ],
+   "blocks": [
+    "Currency Symbols"
+   ],
+   "ages": [
+    "3.2"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01250",
+   "text": "﷼",
+   "categories": [
+    "Currency"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+FDFC"
+   ],
+   "unicode_names": [
+    "RIAL SIGN"
+   ],
+   "general_categories": [
+    "Sc"
+   ],
+   "blocks": [
+    "Arabic Presentation Forms-A"
+   ],
+   "ages": [
+    "3.2"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  }
+ ]
+}

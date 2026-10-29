@@ -1,0 +1,1244 @@
+{
+ "category": {
+  "key": "Geometric",
+  "slug": "geometric",
+  "labels": {
+   "en": "Geometric",
+   "es": "Geométricos",
+   "pt": "Geométricos",
+   "de": "Geometrisch",
+   "ja": "図形",
+   "zh": "几何图形"
+  },
+  "count": 37,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ "symbols": [
+  {
+   "id": "sym_00913",
+   "text": "○",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25CB"
+   ],
+   "unicode_names": [
+    "WHITE CIRCLE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00914",
+   "text": "●",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25CF"
+   ],
+   "unicode_names": [
+    "BLACK CIRCLE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00915",
+   "text": "◯",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25EF"
+   ],
+   "unicode_names": [
+    "LARGE CIRCLE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00916",
+   "text": "◉",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25C9"
+   ],
+   "unicode_names": [
+    "FISHEYE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00917",
+   "text": "◎",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25CE"
+   ],
+   "unicode_names": [
+    "BULLSEYE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00918",
+   "text": "◌",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25CC"
+   ],
+   "unicode_names": [
+    "DOTTED CIRCLE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00919",
+   "text": "◍",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25CD"
+   ],
+   "unicode_names": [
+    "CIRCLE WITH VERTICAL FILL"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00920",
+   "text": "△",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25B3"
+   ],
+   "unicode_names": [
+    "WHITE UP-POINTING TRIANGLE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00921",
+   "text": "▲",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25B2"
+   ],
+   "unicode_names": [
+    "BLACK UP-POINTING TRIANGLE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00922",
+   "text": "▽",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25BD"
+   ],
+   "unicode_names": [
+    "WHITE DOWN-POINTING TRIANGLE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00923",
+   "text": "▼",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25BC"
+   ],
+   "unicode_names": [
+    "BLACK DOWN-POINTING TRIANGLE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00924",
+   "text": "◇",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25C7"
+   ],
+   "unicode_names": [
+    "WHITE DIAMOND"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00825",
+   "text": "◆",
+   "categories": [
+    "Bullets",
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25C6"
+   ],
+   "unicode_names": [
+    "BLACK DIAMOND"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00925",
+   "text": "◊",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25CA"
+   ],
+   "unicode_names": [
+    "LOZENGE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00926",
+   "text": "□",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25A1"
+   ],
+   "unicode_names": [
+    "WHITE SQUARE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00927",
+   "text": "■",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25A0"
+   ],
+   "unicode_names": [
+    "BLACK SQUARE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00928",
+   "text": "▢",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25A2"
+   ],
+   "unicode_names": [
+    "WHITE SQUARE WITH ROUNDED CORNERS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00929",
+   "text": "▣",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25A3"
+   ],
+   "unicode_names": [
+    "WHITE SQUARE CONTAINING BLACK SMALL SQUARE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00930",
+   "text": "▤",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25A4"
+   ],
+   "unicode_names": [
+    "SQUARE WITH HORIZONTAL FILL"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00931",
+   "text": "▥",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25A5"
+   ],
+   "unicode_names": [
+    "SQUARE WITH VERTICAL FILL"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00932",
+   "text": "▦",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25A6"
+   ],
+   "unicode_names": [
+    "SQUARE WITH ORTHOGONAL CROSSHATCH FILL"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00933",
+   "text": "▧",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25A7"
+   ],
+   "unicode_names": [
+    "SQUARE WITH UPPER LEFT TO LOWER RIGHT FILL"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00934",
+   "text": "▨",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25A8"
+   ],
+   "unicode_names": [
+    "SQUARE WITH UPPER RIGHT TO LOWER LEFT FILL"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00935",
+   "text": "▩",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25A9"
+   ],
+   "unicode_names": [
+    "SQUARE WITH DIAGONAL CROSSHATCH FILL"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00816",
+   "text": "▪",
+   "categories": [
+    "Bullets",
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25AA"
+   ],
+   "unicode_names": [
+    "BLACK SMALL SQUARE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "black small square",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00817",
+   "text": "▫",
+   "categories": [
+    "Bullets",
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25AB"
+   ],
+   "unicode_names": [
+    "WHITE SMALL SQUARE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "white small square",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00826",
+   "text": "◈",
+   "categories": [
+    "Bullets",
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25C8"
+   ],
+   "unicode_names": [
+    "WHITE DIAMOND CONTAINING BLACK SMALL DIAMOND"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00936",
+   "text": "◐",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25D0"
+   ],
+   "unicode_names": [
+    "CIRCLE WITH LEFT HALF BLACK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00937",
+   "text": "◑",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25D1"
+   ],
+   "unicode_names": [
+    "CIRCLE WITH RIGHT HALF BLACK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00938",
+   "text": "◒",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25D2"
+   ],
+   "unicode_names": [
+    "CIRCLE WITH LOWER HALF BLACK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00939",
+   "text": "◓",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25D3"
+   ],
+   "unicode_names": [
+    "CIRCLE WITH UPPER HALF BLACK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00940",
+   "text": "◔",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25D4"
+   ],
+   "unicode_names": [
+    "CIRCLE WITH UPPER RIGHT QUADRANT BLACK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00941",
+   "text": "◕",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+25D5"
+   ],
+   "unicode_names": [
+    "CIRCLE WITH ALL BUT UPPER LEFT QUADRANT BLACK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Geometric Shapes"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00942",
+   "text": "⬟",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2B1F"
+   ],
+   "unicode_names": [
+    "BLACK PENTAGON"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Arrows"
+   ],
+   "ages": [
+    "5.1"
+   ],
+   "unicode_version": "5.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00943",
+   "text": "⬠",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2B20"
+   ],
+   "unicode_names": [
+    "WHITE PENTAGON"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Arrows"
+   ],
+   "ages": [
+    "5.0"
+   ],
+   "unicode_version": "5.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00944",
+   "text": "⬢",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2B22"
+   ],
+   "unicode_names": [
+    "BLACK HEXAGON"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Arrows"
+   ],
+   "ages": [
+    "5.0"
+   ],
+   "unicode_version": "5.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00945",
+   "text": "⬡",
+   "categories": [
+    "Geometric"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2B21"
+   ],
+   "unicode_names": [
+    "WHITE HEXAGON"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Arrows"
+   ],
+   "ages": [
+    "5.0"
+   ],
+   "unicode_version": "5.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  }
+ ]
+}

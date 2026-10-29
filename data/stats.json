@@ -1,0 +1,58 @@
+{
+ "symbols": 1275,
+ "category_memberships": 1317,
+ "categories": 23,
+ "categories_with_dedicated_page": 5,
+ "single_code_point": 589,
+ "multi_code_point": 686,
+ "distinct_code_points": 982,
+ "in_multiple_categories": 40,
+ "rgi_emoji_fully_qualified": 192,
+ "with_alt_code": 4,
+ "locales": [
+  "en",
+  "es",
+  "pt",
+  "de",
+  "ja",
+  "zh"
+ ],
+ "unicode_version": "16.0.0",
+ "emoji_version": "16.0",
+ "per_category": {
+  "Hearts": 142,
+  "Heart Combos": 505,
+  "Love Emoji": 109,
+  "Math": 55,
+  "Bullets": 18,
+  "Punctuation": 24,
+  "Checkmarks": 13,
+  "Numbers": 38,
+  "Legal": 13,
+  "Geometric": 37,
+  "Greek": 49,
+  "Chess": 20,
+  "Stars": 19,
+  "Degree": 14,
+  "Arrows": 110,
+  "Music": 30,
+  "Flowers": 18,
+  "Lines": 18,
+  "Brackets": 20,
+  "Zodiac": 17,
+  "Currency": 15,
+  "Weather": 15,
+  "Aesthetic": 18
+ },
+ "excluded": [
+  {
+   "text": "΢",
+   "category": "Greek",
+   "codepoints": [
+    "U+03A2"
+   ],
+   "reason": "unassigned or private-use code point in Unicode 16.0.0"
+  }
+ ],
+ "snapshot_date": "2026-10-29"
+}

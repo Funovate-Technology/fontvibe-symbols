@@ -1,0 +1,6 @@
+src/copy_paste_symbols/data/
+src/copy_paste_symbols/stats.json
+dist/
+build/
+*.egg-info/
+__pycache__/

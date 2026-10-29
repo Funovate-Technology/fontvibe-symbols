@@ -1,0 +1,347 @@
+[
+ {
+  "key": "Hearts",
+  "slug": "hearts",
+  "labels": {
+   "en": "Hearts",
+   "es": "Corazones",
+   "pt": "Corações",
+   "de": "Herzen",
+   "ja": "ハート",
+   "zh": "爱心"
+  },
+  "count": 142,
+  "fontvibe_page": "https://fontvibe.ai/tools/heart-symbol",
+  "dedicated_page": true
+ },
+ {
+  "key": "Heart Combos",
+  "slug": "heart-combos",
+  "labels": {
+   "en": "Heart Combos",
+   "es": "Combinaciones de corazones",
+   "pt": "Combinações de corações",
+   "de": "Herz-Kombis",
+   "ja": "ハートの組み合わせ",
+   "zh": "爱心组合"
+  },
+  "count": 505,
+  "fontvibe_page": "https://fontvibe.ai/tools/heart-symbol",
+  "dedicated_page": true
+ },
+ {
+  "key": "Love Emoji",
+  "slug": "love-emoji",
+  "labels": {
+   "en": "Love Emoji",
+   "es": "Emojis de amor",
+   "pt": "Emojis de amor",
+   "de": "Liebes-Emojis",
+   "ja": "恋愛の絵文字",
+   "zh": "爱情 emoji"
+  },
+  "count": 109,
+  "fontvibe_page": "https://fontvibe.ai/tools/heart-symbol",
+  "dedicated_page": true
+ },
+ {
+  "key": "Math",
+  "slug": "math",
+  "labels": {
+   "en": "Math",
+   "es": "Matemáticos",
+   "pt": "Matemáticos",
+   "de": "Mathe",
+   "ja": "数学",
+   "zh": "数学"
+  },
+  "count": 55,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ {
+  "key": "Bullets",
+  "slug": "bullets",
+  "labels": {
+   "en": "Bullets",
+   "es": "Viñetas",
+   "pt": "Marcadores",
+   "de": "Aufzählung",
+   "ja": "箇条書き",
+   "zh": "项目符号"
+  },
+  "count": 18,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ {
+  "key": "Punctuation",
+  "slug": "punctuation",
+  "labels": {
+   "en": "Punctuation",
+   "es": "Puntuación",
+   "pt": "Pontuação",
+   "de": "Satzzeichen",
+   "ja": "句読点",
+   "zh": "标点"
+  },
+  "count": 24,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ {
+  "key": "Checkmarks",
+  "slug": "checkmarks",
+  "labels": {
+   "en": "Checkmarks",
+   "es": "Marcas de verificación",
+   "pt": "Marcas de seleção",
+   "de": "Häkchen",
+   "ja": "チェックマーク",
+   "zh": "对勾"
+  },
+  "count": 13,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ {
+  "key": "Numbers",
+  "slug": "numbers",
+  "labels": {
+   "en": "Numbers",
+   "es": "Números",
+   "pt": "Números",
+   "de": "Zahlen",
+   "ja": "数字",
+   "zh": "数字"
+  },
+  "count": 38,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ {
+  "key": "Legal",
+  "slug": "legal",
+  "labels": {
+   "en": "Legal",
+   "es": "Legales",
+   "pt": "Jurídicos",
+   "de": "Rechtlich",
+   "ja": "法的記号",
+   "zh": "法律符号"
+  },
+  "count": 13,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ {
+  "key": "Geometric",
+  "slug": "geometric",
+  "labels": {
+   "en": "Geometric",
+   "es": "Geométricos",
+   "pt": "Geométricos",
+   "de": "Geometrisch",
+   "ja": "図形",
+   "zh": "几何图形"
+  },
+  "count": 37,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ {
+  "key": "Greek",
+  "slug": "greek",
+  "labels": {
+   "en": "Greek",
+   "es": "Griego",
+   "pt": "Grego",
+   "de": "Griechisch",
+   "ja": "ギリシャ文字",
+   "zh": "希腊字母"
+  },
+  "count": 49,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ {
+  "key": "Chess",
+  "slug": "chess",
+  "labels": {
+   "en": "Chess",
+   "es": "Ajedrez",
+   "pt": "Xadrez",
+   "de": "Schach",
+   "ja": "チェス",
+   "zh": "国际象棋"
+  },
+  "count": 20,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ {
+  "key": "Stars",
+  "slug": "stars",
+  "labels": {
+   "en": "Stars",
+   "es": "Estrellas",
+   "pt": "Estrelas",
+   "de": "Sterne",
+   "ja": "星",
+   "zh": "星星"
+  },
+  "count": 19,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ {
+  "key": "Degree",
+  "slug": "degree",
+  "labels": {
+   "en": "Degree",
+   "es": "Grados",
+   "pt": "Graus",
+   "de": "Grad",
+   "ja": "度記号",
+   "zh": "度数符号"
+  },
+  "count": 14,
+  "fontvibe_page": "https://fontvibe.ai/tools/degree-symbol",
+  "dedicated_page": true
+ },
+ {
+  "key": "Arrows",
+  "slug": "arrows",
+  "labels": {
+   "en": "Arrows",
+   "es": "Flechas",
+   "pt": "Setas",
+   "de": "Pfeile",
+   "ja": "矢印",
+   "zh": "箭头"
+  },
+  "count": 110,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ {
+  "key": "Music",
+  "slug": "music",
+  "labels": {
+   "en": "Music",
+   "es": "Música",
+   "pt": "Música",
+   "de": "Musik",
+   "ja": "音楽",
+   "zh": "音乐"
+  },
+  "count": 30,
+  "fontvibe_page": "https://fontvibe.ai/tools/music-note-symbol",
+  "dedicated_page": true
+ },
+ {
+  "key": "Flowers",
+  "slug": "flowers",
+  "labels": {
+   "en": "Flowers",
+   "es": "Flores",
+   "pt": "Flores",
+   "de": "Blumen",
+   "ja": "花",
+   "zh": "花朵"
+  },
+  "count": 18,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ {
+  "key": "Lines",
+  "slug": "lines",
+  "labels": {
+   "en": "Lines",
+   "es": "Líneas",
+   "pt": "Linhas",
+   "de": "Linien",
+   "ja": "線",
+   "zh": "线条"
+  },
+  "count": 18,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ {
+  "key": "Brackets",
+  "slug": "brackets",
+  "labels": {
+   "en": "Brackets",
+   "es": "Corchetes",
+   "pt": "Colchetes",
+   "de": "Klammern",
+   "ja": "括弧",
+   "zh": "括号"
+  },
+  "count": 20,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ {
+  "key": "Zodiac",
+  "slug": "zodiac",
+  "labels": {
+   "en": "Zodiac",
+   "es": "Zodíaco",
+   "pt": "Zodíaco",
+   "de": "Sternzeichen",
+   "ja": "星座",
+   "zh": "星座"
+  },
+  "count": 17,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ {
+  "key": "Currency",
+  "slug": "currency",
+  "labels": {
+   "en": "Currency",
+   "es": "Monedas",
+   "pt": "Moedas",
+   "de": "Währung",
+   "ja": "通貨",
+   "zh": "货币"
+  },
+  "count": 15,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ {
+  "key": "Weather",
+  "slug": "weather",
+  "labels": {
+   "en": "Weather",
+   "es": "Clima",
+   "pt": "Clima",
+   "de": "Wetter",
+   "ja": "天気",
+   "zh": "天气"
+  },
+  "count": 15,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ {
+  "key": "Aesthetic",
+  "slug": "aesthetic",
+  "labels": {
+   "en": "Aesthetic",
+   "es": "Estéticos",
+   "pt": "Estéticos",
+   "de": "Ästhetisch",
+   "ja": "おしゃれ",
+   "zh": "美化"
+  },
+  "count": 18,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ }
+]

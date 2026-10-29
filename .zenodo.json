@@ -1,0 +1,43 @@
+{
+  "upload_type": "dataset",
+  "title": "FontVibe Copy-and-Paste Symbols: a symbol site's library with six-language category names and Unicode 16.0 facts",
+  "description": "<p>The copy-and-paste symbol library behind fontvibe.ai — hearts, heart combos, stars, arrows, brackets, math, currency and other categories — as data. Order within each category is the order the site shows them; multi-character combos and emoji sequences are kept byte-exact, variation selectors included.</p><p>Every category is named in English, Spanish, Portuguese, German, Japanese and Chinese. Every code point carries its Unicode 16.0.0 name, general category, block, age and Emoji / Emoji_Presentation properties, and every entry its status and CLDR name in emoji-test.txt (Emoji 16.0) where listed. Nothing is typed in by hand: <code>scripts/verify.py</code> re-derives all of it from the official Unicode files and checks every number stated in the README.</p><p>Kaomoji are published separately. Also distributed as <code>copy-paste-symbols</code> on npm and PyPI. A browsable version is at <a href=\"https://fontvibe.ai/tools/heart-symbol\">fontvibe.ai/tools/heart-symbol</a>.</p>",
+  "creators": [
+    {
+      "name": "FontVibe"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "symbols",
+    "unicode",
+    "copy and paste",
+    "text symbols",
+    "heart symbol",
+    "emoji",
+    "multilingual",
+    "dataset"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://fontvibe.ai/tools/heart-symbol",
+      "relation": "isVariantFormOf",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.npmjs.com/package/copy-paste-symbols",
+      "relation": "isIdenticalTo",
+      "resource_type": "software",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/copy-paste-symbols/",
+      "relation": "isIdenticalTo",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ]
+}

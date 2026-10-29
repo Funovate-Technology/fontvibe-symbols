@@ -1,0 +1,1273 @@
+{
+ "category": {
+  "key": "Numbers",
+  "slug": "numbers",
+  "labels": {
+   "en": "Numbers",
+   "es": "Números",
+   "pt": "Números",
+   "de": "Zahlen",
+   "ja": "数字",
+   "zh": "数字"
+  },
+  "count": 38,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ "symbols": [
+  {
+   "id": "sym_00864",
+   "text": "①",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2460"
+   ],
+   "unicode_names": [
+    "CIRCLED DIGIT ONE"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Enclosed Alphanumerics"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00865",
+   "text": "②",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2461"
+   ],
+   "unicode_names": [
+    "CIRCLED DIGIT TWO"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Enclosed Alphanumerics"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00866",
+   "text": "③",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2462"
+   ],
+   "unicode_names": [
+    "CIRCLED DIGIT THREE"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Enclosed Alphanumerics"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00867",
+   "text": "④",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2463"
+   ],
+   "unicode_names": [
+    "CIRCLED DIGIT FOUR"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Enclosed Alphanumerics"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00868",
+   "text": "⑤",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2464"
+   ],
+   "unicode_names": [
+    "CIRCLED DIGIT FIVE"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Enclosed Alphanumerics"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00869",
+   "text": "⑥",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2465"
+   ],
+   "unicode_names": [
+    "CIRCLED DIGIT SIX"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Enclosed Alphanumerics"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00870",
+   "text": "⑦",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2466"
+   ],
+   "unicode_names": [
+    "CIRCLED DIGIT SEVEN"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Enclosed Alphanumerics"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00871",
+   "text": "⑧",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2467"
+   ],
+   "unicode_names": [
+    "CIRCLED DIGIT EIGHT"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Enclosed Alphanumerics"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00872",
+   "text": "⑨",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2468"
+   ],
+   "unicode_names": [
+    "CIRCLED DIGIT NINE"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Enclosed Alphanumerics"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00873",
+   "text": "⑩",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2469"
+   ],
+   "unicode_names": [
+    "CIRCLED NUMBER TEN"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Enclosed Alphanumerics"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00874",
+   "text": "⑪",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+246A"
+   ],
+   "unicode_names": [
+    "CIRCLED NUMBER ELEVEN"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Enclosed Alphanumerics"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00875",
+   "text": "⑫",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+246B"
+   ],
+   "unicode_names": [
+    "CIRCLED NUMBER TWELVE"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Enclosed Alphanumerics"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00876",
+   "text": "❶",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2776"
+   ],
+   "unicode_names": [
+    "DINGBAT NEGATIVE CIRCLED DIGIT ONE"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00877",
+   "text": "❷",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2777"
+   ],
+   "unicode_names": [
+    "DINGBAT NEGATIVE CIRCLED DIGIT TWO"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00878",
+   "text": "❸",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2778"
+   ],
+   "unicode_names": [
+    "DINGBAT NEGATIVE CIRCLED DIGIT THREE"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00879",
+   "text": "❹",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2779"
+   ],
+   "unicode_names": [
+    "DINGBAT NEGATIVE CIRCLED DIGIT FOUR"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00880",
+   "text": "❺",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+277A"
+   ],
+   "unicode_names": [
+    "DINGBAT NEGATIVE CIRCLED DIGIT FIVE"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00881",
+   "text": "Ⅰ",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2160"
+   ],
+   "unicode_names": [
+    "ROMAN NUMERAL ONE"
+   ],
+   "general_categories": [
+    "Nl"
+   ],
+   "blocks": [
+    "Number Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00882",
+   "text": "Ⅱ",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2161"
+   ],
+   "unicode_names": [
+    "ROMAN NUMERAL TWO"
+   ],
+   "general_categories": [
+    "Nl"
+   ],
+   "blocks": [
+    "Number Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00883",
+   "text": "Ⅲ",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2162"
+   ],
+   "unicode_names": [
+    "ROMAN NUMERAL THREE"
+   ],
+   "general_categories": [
+    "Nl"
+   ],
+   "blocks": [
+    "Number Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00884",
+   "text": "Ⅳ",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2163"
+   ],
+   "unicode_names": [
+    "ROMAN NUMERAL FOUR"
+   ],
+   "general_categories": [
+    "Nl"
+   ],
+   "blocks": [
+    "Number Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00885",
+   "text": "Ⅴ",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2164"
+   ],
+   "unicode_names": [
+    "ROMAN NUMERAL FIVE"
+   ],
+   "general_categories": [
+    "Nl"
+   ],
+   "blocks": [
+    "Number Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00886",
+   "text": "Ⅵ",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2165"
+   ],
+   "unicode_names": [
+    "ROMAN NUMERAL SIX"
+   ],
+   "general_categories": [
+    "Nl"
+   ],
+   "blocks": [
+    "Number Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00887",
+   "text": "Ⅶ",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2166"
+   ],
+   "unicode_names": [
+    "ROMAN NUMERAL SEVEN"
+   ],
+   "general_categories": [
+    "Nl"
+   ],
+   "blocks": [
+    "Number Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00888",
+   "text": "Ⅷ",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2167"
+   ],
+   "unicode_names": [
+    "ROMAN NUMERAL EIGHT"
+   ],
+   "general_categories": [
+    "Nl"
+   ],
+   "blocks": [
+    "Number Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00889",
+   "text": "Ⅸ",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2168"
+   ],
+   "unicode_names": [
+    "ROMAN NUMERAL NINE"
+   ],
+   "general_categories": [
+    "Nl"
+   ],
+   "blocks": [
+    "Number Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00890",
+   "text": "Ⅹ",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2169"
+   ],
+   "unicode_names": [
+    "ROMAN NUMERAL TEN"
+   ],
+   "general_categories": [
+    "Nl"
+   ],
+   "blocks": [
+    "Number Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00891",
+   "text": "½",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00BD"
+   ],
+   "unicode_names": [
+    "VULGAR FRACTION ONE HALF"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00892",
+   "text": "⅓",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2153"
+   ],
+   "unicode_names": [
+    "VULGAR FRACTION ONE THIRD"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Number Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00893",
+   "text": "⅔",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2154"
+   ],
+   "unicode_names": [
+    "VULGAR FRACTION TWO THIRDS"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Number Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00894",
+   "text": "¼",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00BC"
+   ],
+   "unicode_names": [
+    "VULGAR FRACTION ONE QUARTER"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00895",
+   "text": "¾",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00BE"
+   ],
+   "unicode_names": [
+    "VULGAR FRACTION THREE QUARTERS"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00896",
+   "text": "⅕",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2155"
+   ],
+   "unicode_names": [
+    "VULGAR FRACTION ONE FIFTH"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Number Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00897",
+   "text": "⅖",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2156"
+   ],
+   "unicode_names": [
+    "VULGAR FRACTION TWO FIFTHS"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Number Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00898",
+   "text": "⅗",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2157"
+   ],
+   "unicode_names": [
+    "VULGAR FRACTION THREE FIFTHS"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Number Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00899",
+   "text": "⅘",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2158"
+   ],
+   "unicode_names": [
+    "VULGAR FRACTION FOUR FIFTHS"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Number Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00900",
+   "text": "⅙",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2159"
+   ],
+   "unicode_names": [
+    "VULGAR FRACTION ONE SIXTH"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Number Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00901",
+   "text": "⅛",
+   "categories": [
+    "Numbers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+215B"
+   ],
+   "unicode_names": [
+    "VULGAR FRACTION ONE EIGHTH"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Number Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  }
+ ]
+}

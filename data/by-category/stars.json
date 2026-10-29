@@ -1,0 +1,648 @@
+{
+ "category": {
+  "key": "Stars",
+  "slug": "stars",
+  "labels": {
+   "en": "Stars",
+   "es": "Estrellas",
+   "pt": "Estrelas",
+   "de": "Sterne",
+   "ja": "星",
+   "zh": "星星"
+  },
+  "count": 19,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ "symbols": [
+  {
+   "id": "sym_01002",
+   "text": "★",
+   "categories": [
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2605"
+   ],
+   "unicode_names": [
+    "BLACK STAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01003",
+   "text": "☆",
+   "categories": [
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2606"
+   ],
+   "unicode_names": [
+    "WHITE STAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00822",
+   "text": "✦",
+   "categories": [
+    "Bullets",
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2726"
+   ],
+   "unicode_names": [
+    "BLACK FOUR POINTED STAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00823",
+   "text": "✧",
+   "categories": [
+    "Bullets",
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2727"
+   ],
+   "unicode_names": [
+    "WHITE FOUR POINTED STAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01004",
+   "text": "✩",
+   "categories": [
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2729"
+   ],
+   "unicode_names": [
+    "STRESS OUTLINED WHITE STAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01005",
+   "text": "✪",
+   "categories": [
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+272A"
+   ],
+   "unicode_names": [
+    "CIRCLED WHITE STAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01006",
+   "text": "✫",
+   "categories": [
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+272B"
+   ],
+   "unicode_names": [
+    "OPEN CENTRE BLACK STAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01007",
+   "text": "✬",
+   "categories": [
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+272C"
+   ],
+   "unicode_names": [
+    "BLACK CENTRE WHITE STAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01008",
+   "text": "✭",
+   "categories": [
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+272D"
+   ],
+   "unicode_names": [
+    "OUTLINED BLACK STAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01009",
+   "text": "✮",
+   "categories": [
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+272E"
+   ],
+   "unicode_names": [
+    "HEAVY OUTLINED BLACK STAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01010",
+   "text": "✯",
+   "categories": [
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+272F"
+   ],
+   "unicode_names": [
+    "PINWHEEL STAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01011",
+   "text": "⋆",
+   "categories": [
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+22C6"
+   ],
+   "unicode_names": [
+    "STAR OPERATOR"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01012",
+   "text": "🌟",
+   "categories": [
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F31F"
+   ],
+   "unicode_names": [
+    "GLOWING STAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "glowing star",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01013",
+   "text": "✨",
+   "categories": [
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2728"
+   ],
+   "unicode_names": [
+    "SPARKLES"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "sparkles",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01014",
+   "text": "⭐",
+   "categories": [
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2B50"
+   ],
+   "unicode_names": [
+    "WHITE MEDIUM STAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Arrows"
+   ],
+   "ages": [
+    "5.1"
+   ],
+   "unicode_version": "5.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "star",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01015",
+   "text": "࿐",
+   "categories": [
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+0FD0"
+   ],
+   "unicode_names": [
+    "TIBETAN MARK BSKA- SHOG GI MGO RGYAN"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "Tibetan"
+   ],
+   "ages": [
+    "4.1"
+   ],
+   "unicode_version": "4.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01016",
+   "text": "彡",
+   "categories": [
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+5F61"
+   ],
+   "unicode_names": [
+    "CJK UNIFIED IDEOGRAPH-5F61"
+   ],
+   "general_categories": [
+    "Lo"
+   ],
+   "blocks": [
+    "CJK Unified Ideographs"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01017",
+   "text": "⚝",
+   "categories": [
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+269D"
+   ],
+   "unicode_names": [
+    "OUTLINED WHITE STAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "5.1"
+   ],
+   "unicode_version": "5.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01018",
+   "text": "🌠",
+   "categories": [
+    "Stars"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F320"
+   ],
+   "unicode_names": [
+    "SHOOTING STAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "shooting star",
+   "alt_code": null
+  }
+ ]
+}

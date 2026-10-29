@@ -1,0 +1,56 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "copy-paste-symbols"
+version = "1.0.0"
+description = "FontVibe's copy-and-paste symbol library (hearts, heart combos, stars, arrows, brackets, math, currency...) with six-language category names and Unicode facts for every code point. No dependencies."
+readme = "README.md"
+requires-python = ">=3.8"
+license = "CC-BY-4.0 AND MIT"
+license-files = ["LICENSE", "LICENSE-CODE", "NOTICE"]
+authors = [{ name = "Funovate Technology", email = "jacktu@fun-innovate.com" }]
+keywords = [
+  "symbols", "unicode", "copy-paste", "text-symbols", "heart-symbol",
+  "aesthetic-symbols", "special-characters", "dataset", "emoji", "multilingual",
+]
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Intended Audience :: Developers",
+  "Natural Language :: English",
+  "Natural Language :: Spanish",
+  "Natural Language :: Portuguese",
+  "Natural Language :: German",
+  "Natural Language :: Japanese",
+  "Natural Language :: Chinese (Simplified)",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Topic :: Text Processing :: General",
+  "Typing :: Typed",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://fontvibe.ai/tools/heart-symbol"
+Source = "https://github.com/Funovate-Technology/fontvibe-symbols"
+Issues = "https://github.com/Funovate-Technology/fontvibe-symbols/issues"
+Documentation = "https://github.com/Funovate-Technology/fontvibe-symbols/blob/main/SCHEMA.md"
+
+[project.scripts]
+copy-paste-symbols = "copy_paste_symbols.__main__:main"
+
+# data/ and stats.json are gitignored (synced from the repo root); hatchling honours
+# VCS ignore files, so they have to be named explicitly or the wheel ships empty.
+[tool.hatch.build]
+artifacts = [
+  "src/copy_paste_symbols/data/symbols.json",
+  "src/copy_paste_symbols/data/categories.json",
+  "src/copy_paste_symbols/stats.json",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/copy_paste_symbols"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src/", "tests/", "scripts/", "README.md", "LICENSE", "LICENSE-CODE", "NOTICE", "pyproject.toml"]

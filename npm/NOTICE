@@ -1,0 +1,38 @@
+FontVibe Copy-and-Paste Symbols
+https://fontvibe.ai/tools/heart-symbol
+https://github.com/Funovate-Technology/fontvibe-symbols
+
+  Data (data/): CC BY 4.0 — see LICENSE. Attribution required; suggested
+  wording is in README.md under "Attribution".
+  Code (scripts/, npm/, pypi/): MIT — see LICENSE-CODE.
+
+────────────────────────────────────────────────────────────────────────
+What the license covers
+
+  Individual Unicode characters belong to no one. What this dataset
+  contributes, and what CC BY 4.0 applies to, is the selection: which
+  symbols and multi-character combos a copy-and-paste symbol site offers,
+  how they are grouped into categories, the order within each category,
+  and the category names in six languages. The selection is FontVibe's.
+
+────────────────────────────────────────────────────────────────────────
+Unicode Character Database — Unicode License v3
+https://www.unicode.org/license.txt
+
+  The fields unicode_names, general_categories, blocks, ages,
+  unicode_version, emoji, emoji_presentation, emoji_status and emoji_name
+  are derived from the Unicode Character Database 16.0.0 (via Python's
+  unicodedata module and the files Blocks.txt, DerivedAge.txt,
+  emoji-data.txt) and from emoji-test.txt, Emoji 16.0.
+
+  © 1991-2024 Unicode, Inc. Unicode and the Unicode Logo are registered
+  trademarks of Unicode, Inc. in the United States and other countries.
+  The Unicode data files are distributed under the Unicode License v3;
+  this repository does not redistribute those files, only facts looked up
+  from them, which scripts/verify.py re-derives from the originals.
+
+────────────────────────────────────────────────────────────────────────
+Kaomoji
+
+  Kaomoji categories are deliberately not part of this dataset. They are
+  published separately: https://github.com/Funovate-Technology/fontvibe-kaomoji

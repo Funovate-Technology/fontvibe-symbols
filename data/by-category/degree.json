@@ -1,0 +1,490 @@
+{
+ "category": {
+  "key": "Degree",
+  "slug": "degree",
+  "labels": {
+   "en": "Degree",
+   "es": "Grados",
+   "pt": "Graus",
+   "de": "Grad",
+   "ja": "度記号",
+   "zh": "度数符号"
+  },
+  "count": 14,
+  "fontvibe_page": "https://fontvibe.ai/tools/degree-symbol",
+  "dedicated_page": true
+ },
+ "symbols": [
+  {
+   "id": "sym_00799",
+   "text": "°",
+   "categories": [
+    "Math",
+    "Degree",
+    "Aesthetic"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00B0"
+   ],
+   "unicode_names": [
+    "DEGREE SIGN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": "Alt+0176"
+  },
+  {
+   "id": "sym_01019",
+   "text": "℃",
+   "categories": [
+    "Degree"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2103"
+   ],
+   "unicode_names": [
+    "DEGREE CELSIUS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Letterlike Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01020",
+   "text": "℉",
+   "categories": [
+    "Degree"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2109"
+   ],
+   "unicode_names": [
+    "DEGREE FAHRENHEIT"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Letterlike Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01021",
+   "text": "∡",
+   "categories": [
+    "Degree"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2221"
+   ],
+   "unicode_names": [
+    "MEASURED ANGLE"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00803",
+   "text": "∠",
+   "categories": [
+    "Math",
+    "Degree"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2220"
+   ],
+   "unicode_names": [
+    "ANGLE"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01022",
+   "text": "⦜",
+   "categories": [
+    "Degree"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+299C"
+   ],
+   "unicode_names": [
+    "RIGHT ANGLE VARIANT WITH SQUARE"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Miscellaneous Mathematical Symbols-B"
+   ],
+   "ages": [
+    "3.2"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00800",
+   "text": "′",
+   "categories": [
+    "Math",
+    "Degree"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2032"
+   ],
+   "unicode_names": [
+    "PRIME"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00801",
+   "text": "″",
+   "categories": [
+    "Math",
+    "Degree"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2033"
+   ],
+   "unicode_names": [
+    "DOUBLE PRIME"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01023",
+   "text": "˚",
+   "categories": [
+    "Degree",
+    "Aesthetic"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+02DA"
+   ],
+   "unicode_names": [
+    "RING ABOVE"
+   ],
+   "general_categories": [
+    "Sk"
+   ],
+   "blocks": [
+    "Spacing Modifier Letters"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01024",
+   "text": "⁰",
+   "categories": [
+    "Degree"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2070"
+   ],
+   "unicode_names": [
+    "SUPERSCRIPT ZERO"
+   ],
+   "general_categories": [
+    "No"
+   ],
+   "blocks": [
+    "Superscripts and Subscripts"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01025",
+   "text": "K",
+   "categories": [
+    "Degree"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+004B"
+   ],
+   "unicode_names": [
+    "LATIN CAPITAL LETTER K"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Basic Latin"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00910",
+   "text": "℅",
+   "categories": [
+    "Legal",
+    "Degree"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2105"
+   ],
+   "unicode_names": [
+    "CARE OF"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Letterlike Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00802",
+   "text": "‰",
+   "categories": [
+    "Math",
+    "Punctuation",
+    "Degree"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2030"
+   ],
+   "unicode_names": [
+    "PER MILLE SIGN"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01026",
+   "text": "％",
+   "categories": [
+    "Degree"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+FF05"
+   ],
+   "unicode_names": [
+    "FULLWIDTH PERCENT SIGN"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "Halfwidth and Fullwidth Forms"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  }
+ ]
+}

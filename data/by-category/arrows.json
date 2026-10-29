@@ -1,0 +1,3650 @@
+{
+ "category": {
+  "key": "Arrows",
+  "slug": "arrows",
+  "labels": {
+   "en": "Arrows",
+   "es": "Flechas",
+   "pt": "Setas",
+   "de": "Pfeile",
+   "ja": "矢印",
+   "zh": "箭头"
+  },
+  "count": 110,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ "symbols": [
+  {
+   "id": "sym_01027",
+   "text": "↕",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2195"
+   ],
+   "unicode_names": [
+    "UP DOWN ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "up-down arrow",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01028",
+   "text": "↖",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2196"
+   ],
+   "unicode_names": [
+    "NORTH WEST ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "up-left arrow",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01029",
+   "text": "↗",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2197"
+   ],
+   "unicode_names": [
+    "NORTH EAST ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "up-right arrow",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01030",
+   "text": "↘",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2198"
+   ],
+   "unicode_names": [
+    "SOUTH EAST ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "down-right arrow",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01031",
+   "text": "↙",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2199"
+   ],
+   "unicode_names": [
+    "SOUTH WEST ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "down-left arrow",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01032",
+   "text": "↚",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+219A"
+   ],
+   "unicode_names": [
+    "LEFTWARDS ARROW WITH STROKE"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01033",
+   "text": "↛",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+219B"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS ARROW WITH STROKE"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01034",
+   "text": "↜",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+219C"
+   ],
+   "unicode_names": [
+    "LEFTWARDS WAVE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01035",
+   "text": "↝",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+219D"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS WAVE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01036",
+   "text": "↞",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+219E"
+   ],
+   "unicode_names": [
+    "LEFTWARDS TWO HEADED ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01037",
+   "text": "↟",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+219F"
+   ],
+   "unicode_names": [
+    "UPWARDS TWO HEADED ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01038",
+   "text": "↠",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21A0"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS TWO HEADED ARROW"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01039",
+   "text": "↡",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21A1"
+   ],
+   "unicode_names": [
+    "DOWNWARDS TWO HEADED ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01040",
+   "text": "↢",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21A2"
+   ],
+   "unicode_names": [
+    "LEFTWARDS ARROW WITH TAIL"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01041",
+   "text": "↣",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21A3"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS ARROW WITH TAIL"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01042",
+   "text": "↤",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21A4"
+   ],
+   "unicode_names": [
+    "LEFTWARDS ARROW FROM BAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01043",
+   "text": "↥",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21A5"
+   ],
+   "unicode_names": [
+    "UPWARDS ARROW FROM BAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01044",
+   "text": "↦",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21A6"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS ARROW FROM BAR"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01045",
+   "text": "↧",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21A7"
+   ],
+   "unicode_names": [
+    "DOWNWARDS ARROW FROM BAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01046",
+   "text": "↨",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21A8"
+   ],
+   "unicode_names": [
+    "UP DOWN ARROW WITH BASE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01047",
+   "text": "↫",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21AB"
+   ],
+   "unicode_names": [
+    "LEFTWARDS ARROW WITH LOOP"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01048",
+   "text": "↬",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21AC"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS ARROW WITH LOOP"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01049",
+   "text": "↭",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21AD"
+   ],
+   "unicode_names": [
+    "LEFT RIGHT WAVE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01050",
+   "text": "↮",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21AE"
+   ],
+   "unicode_names": [
+    "LEFT RIGHT ARROW WITH STROKE"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01051",
+   "text": "↯",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21AF"
+   ],
+   "unicode_names": [
+    "DOWNWARDS ZIGZAG ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01052",
+   "text": "↰",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21B0"
+   ],
+   "unicode_names": [
+    "UPWARDS ARROW WITH TIP LEFTWARDS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01053",
+   "text": "↱",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21B1"
+   ],
+   "unicode_names": [
+    "UPWARDS ARROW WITH TIP RIGHTWARDS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01054",
+   "text": "↲",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21B2"
+   ],
+   "unicode_names": [
+    "DOWNWARDS ARROW WITH TIP LEFTWARDS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01055",
+   "text": "↳",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21B3"
+   ],
+   "unicode_names": [
+    "DOWNWARDS ARROW WITH TIP RIGHTWARDS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01056",
+   "text": "↴",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21B4"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS ARROW WITH CORNER DOWNWARDS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01057",
+   "text": "↵",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21B5"
+   ],
+   "unicode_names": [
+    "DOWNWARDS ARROW WITH CORNER LEFTWARDS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01058",
+   "text": "↶",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21B6"
+   ],
+   "unicode_names": [
+    "ANTICLOCKWISE TOP SEMICIRCLE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01059",
+   "text": "↷",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21B7"
+   ],
+   "unicode_names": [
+    "CLOCKWISE TOP SEMICIRCLE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01060",
+   "text": "↸",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21B8"
+   ],
+   "unicode_names": [
+    "NORTH WEST ARROW TO LONG BAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01061",
+   "text": "↹",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21B9"
+   ],
+   "unicode_names": [
+    "LEFTWARDS ARROW TO BAR OVER RIGHTWARDS ARROW TO BAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01062",
+   "text": "↺",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21BA"
+   ],
+   "unicode_names": [
+    "ANTICLOCKWISE OPEN CIRCLE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01063",
+   "text": "↻",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21BB"
+   ],
+   "unicode_names": [
+    "CLOCKWISE OPEN CIRCLE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01064",
+   "text": "↼",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21BC"
+   ],
+   "unicode_names": [
+    "LEFTWARDS HARPOON WITH BARB UPWARDS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01065",
+   "text": "↽",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21BD"
+   ],
+   "unicode_names": [
+    "LEFTWARDS HARPOON WITH BARB DOWNWARDS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01066",
+   "text": "↾",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21BE"
+   ],
+   "unicode_names": [
+    "UPWARDS HARPOON WITH BARB RIGHTWARDS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01067",
+   "text": "↿",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21BF"
+   ],
+   "unicode_names": [
+    "UPWARDS HARPOON WITH BARB LEFTWARDS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01068",
+   "text": "⇀",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21C0"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS HARPOON WITH BARB UPWARDS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01069",
+   "text": "⇁",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21C1"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS HARPOON WITH BARB DOWNWARDS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01070",
+   "text": "⇂",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21C2"
+   ],
+   "unicode_names": [
+    "DOWNWARDS HARPOON WITH BARB RIGHTWARDS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01071",
+   "text": "⇃",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21C3"
+   ],
+   "unicode_names": [
+    "DOWNWARDS HARPOON WITH BARB LEFTWARDS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01072",
+   "text": "⇄",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21C4"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS ARROW OVER LEFTWARDS ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01073",
+   "text": "⇅",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21C5"
+   ],
+   "unicode_names": [
+    "UPWARDS ARROW LEFTWARDS OF DOWNWARDS ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01074",
+   "text": "⇆",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21C6"
+   ],
+   "unicode_names": [
+    "LEFTWARDS ARROW OVER RIGHTWARDS ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01075",
+   "text": "⇇",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21C7"
+   ],
+   "unicode_names": [
+    "LEFTWARDS PAIRED ARROWS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01076",
+   "text": "⇈",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21C8"
+   ],
+   "unicode_names": [
+    "UPWARDS PAIRED ARROWS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01077",
+   "text": "⇉",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21C9"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS PAIRED ARROWS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01078",
+   "text": "⇊",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21CA"
+   ],
+   "unicode_names": [
+    "DOWNWARDS PAIRED ARROWS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01079",
+   "text": "⇋",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21CB"
+   ],
+   "unicode_names": [
+    "LEFTWARDS HARPOON OVER RIGHTWARDS HARPOON"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01080",
+   "text": "⇌",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21CC"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS HARPOON OVER LEFTWARDS HARPOON"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01081",
+   "text": "⇍",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21CD"
+   ],
+   "unicode_names": [
+    "LEFTWARDS DOUBLE ARROW WITH STROKE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01082",
+   "text": "⇎",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21CE"
+   ],
+   "unicode_names": [
+    "LEFT RIGHT DOUBLE ARROW WITH STROKE"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01083",
+   "text": "⇏",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21CF"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS DOUBLE ARROW WITH STROKE"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01084",
+   "text": "⇑",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21D1"
+   ],
+   "unicode_names": [
+    "UPWARDS DOUBLE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01085",
+   "text": "⇓",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21D3"
+   ],
+   "unicode_names": [
+    "DOWNWARDS DOUBLE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01086",
+   "text": "⇔",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21D4"
+   ],
+   "unicode_names": [
+    "LEFT RIGHT DOUBLE ARROW"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01087",
+   "text": "⇕",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21D5"
+   ],
+   "unicode_names": [
+    "UP DOWN DOUBLE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01088",
+   "text": "⇖",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21D6"
+   ],
+   "unicode_names": [
+    "NORTH WEST DOUBLE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01089",
+   "text": "⇗",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21D7"
+   ],
+   "unicode_names": [
+    "NORTH EAST DOUBLE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01090",
+   "text": "⇘",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21D8"
+   ],
+   "unicode_names": [
+    "SOUTH EAST DOUBLE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01091",
+   "text": "⇙",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21D9"
+   ],
+   "unicode_names": [
+    "SOUTH WEST DOUBLE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01092",
+   "text": "⇚",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21DA"
+   ],
+   "unicode_names": [
+    "LEFTWARDS TRIPLE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01093",
+   "text": "⇛",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21DB"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS TRIPLE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01094",
+   "text": "⇜",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21DC"
+   ],
+   "unicode_names": [
+    "LEFTWARDS SQUIGGLE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01095",
+   "text": "⇝",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21DD"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS SQUIGGLE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01096",
+   "text": "⇞",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21DE"
+   ],
+   "unicode_names": [
+    "UPWARDS ARROW WITH DOUBLE STROKE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01097",
+   "text": "⇟",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21DF"
+   ],
+   "unicode_names": [
+    "DOWNWARDS ARROW WITH DOUBLE STROKE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01098",
+   "text": "⇠",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21E0"
+   ],
+   "unicode_names": [
+    "LEFTWARDS DASHED ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01099",
+   "text": "⇡",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21E1"
+   ],
+   "unicode_names": [
+    "UPWARDS DASHED ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01100",
+   "text": "⇢",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21E2"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS DASHED ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01101",
+   "text": "⇣",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21E3"
+   ],
+   "unicode_names": [
+    "DOWNWARDS DASHED ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01102",
+   "text": "⇤",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21E4"
+   ],
+   "unicode_names": [
+    "LEFTWARDS ARROW TO BAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01103",
+   "text": "⇥",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21E5"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS ARROW TO BAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01104",
+   "text": "⇦",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21E6"
+   ],
+   "unicode_names": [
+    "LEFTWARDS WHITE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01105",
+   "text": "⇧",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21E7"
+   ],
+   "unicode_names": [
+    "UPWARDS WHITE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01106",
+   "text": "⇨",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21E8"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS WHITE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01107",
+   "text": "⇩",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21E9"
+   ],
+   "unicode_names": [
+    "DOWNWARDS WHITE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01108",
+   "text": "⇪",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21EA"
+   ],
+   "unicode_names": [
+    "UPWARDS WHITE ARROW FROM BAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01109",
+   "text": "⇫",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21EB"
+   ],
+   "unicode_names": [
+    "UPWARDS WHITE ARROW ON PEDESTAL"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "3.0"
+   ],
+   "unicode_version": "3.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01110",
+   "text": "⇬",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21EC"
+   ],
+   "unicode_names": [
+    "UPWARDS WHITE ARROW ON PEDESTAL WITH HORIZONTAL BAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "3.0"
+   ],
+   "unicode_version": "3.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01111",
+   "text": "⇭",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21ED"
+   ],
+   "unicode_names": [
+    "UPWARDS WHITE ARROW ON PEDESTAL WITH VERTICAL BAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "3.0"
+   ],
+   "unicode_version": "3.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01112",
+   "text": "⇮",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21EE"
+   ],
+   "unicode_names": [
+    "UPWARDS WHITE DOUBLE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "3.0"
+   ],
+   "unicode_version": "3.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01113",
+   "text": "⇯",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21EF"
+   ],
+   "unicode_names": [
+    "UPWARDS WHITE DOUBLE ARROW ON PEDESTAL"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "3.0"
+   ],
+   "unicode_version": "3.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01114",
+   "text": "⇰",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21F0"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS WHITE ARROW FROM WALL"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "3.0"
+   ],
+   "unicode_version": "3.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01115",
+   "text": "⇱",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21F1"
+   ],
+   "unicode_names": [
+    "NORTH WEST ARROW TO CORNER"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "3.0"
+   ],
+   "unicode_version": "3.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01116",
+   "text": "⇲",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21F2"
+   ],
+   "unicode_names": [
+    "SOUTH EAST ARROW TO CORNER"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "3.0"
+   ],
+   "unicode_version": "3.0",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01117",
+   "text": "→",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2192"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS ARROW"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01118",
+   "text": "←",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2190"
+   ],
+   "unicode_names": [
+    "LEFTWARDS ARROW"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01119",
+   "text": "↑",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2191"
+   ],
+   "unicode_names": [
+    "UPWARDS ARROW"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01120",
+   "text": "↓",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2193"
+   ],
+   "unicode_names": [
+    "DOWNWARDS ARROW"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01121",
+   "text": "↔",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2194"
+   ],
+   "unicode_names": [
+    "LEFT RIGHT ARROW"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "left-right arrow",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01122",
+   "text": "➜",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+279C"
+   ],
+   "unicode_names": [
+    "HEAVY ROUND-TIPPED RIGHTWARDS ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00821",
+   "text": "➤",
+   "categories": [
+    "Bullets",
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+27A4"
+   ],
+   "unicode_names": [
+    "BLACK RIGHTWARDS ARROWHEAD"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01123",
+   "text": "➥",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+27A5"
+   ],
+   "unicode_names": [
+    "HEAVY BLACK CURVED DOWNWARDS AND RIGHTWARDS ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01124",
+   "text": "➦",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+27A6"
+   ],
+   "unicode_names": [
+    "HEAVY BLACK CURVED UPWARDS AND RIGHTWARDS ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01125",
+   "text": "➧",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+27A7"
+   ],
+   "unicode_names": [
+    "SQUAT BLACK RIGHTWARDS ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01126",
+   "text": "➳",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+27B3"
+   ],
+   "unicode_names": [
+    "WHITE-FEATHERED RIGHTWARDS ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01127",
+   "text": "➵",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+27B5"
+   ],
+   "unicode_names": [
+    "BLACK-FEATHERED RIGHTWARDS ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01128",
+   "text": "⇒",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21D2"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS DOUBLE ARROW"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01129",
+   "text": "⇐",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21D0"
+   ],
+   "unicode_names": [
+    "LEFTWARDS DOUBLE ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01130",
+   "text": "↪",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21AA"
+   ],
+   "unicode_names": [
+    "RIGHTWARDS ARROW WITH HOOK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "left arrow curving right",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01131",
+   "text": "↩",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+21A9"
+   ],
+   "unicode_names": [
+    "LEFTWARDS ARROW WITH HOOK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arrows"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "right arrow curving left",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01132",
+   "text": "⤷",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2937"
+   ],
+   "unicode_names": [
+    "ARROW POINTING DOWNWARDS THEN CURVING RIGHTWARDS"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Supplemental Arrows-B"
+   ],
+   "ages": [
+    "3.2"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01133",
+   "text": "⤴",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2934"
+   ],
+   "unicode_names": [
+    "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Supplemental Arrows-B"
+   ],
+   "ages": [
+    "3.2"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "right arrow curving up",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01134",
+   "text": "➶",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+27B6"
+   ],
+   "unicode_names": [
+    "BLACK-FEATHERED NORTH EAST ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01135",
+   "text": "➴",
+   "categories": [
+    "Arrows"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+27B4"
+   ],
+   "unicode_names": [
+    "BLACK-FEATHERED SOUTH EAST ARROW"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  }
+ ]
+}

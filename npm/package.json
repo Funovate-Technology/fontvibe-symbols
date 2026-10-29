@@ -1,0 +1,62 @@
+{
+  "name": "copy-paste-symbols",
+  "version": "1.0.0",
+  "description": "FontVibe's copy-and-paste symbol library — hearts, heart combos, stars, arrows, brackets, math, currency and more — with category names in six languages and Unicode facts (name, block, version, emoji status) for every code point. Zero dependencies.",
+  "keywords": [
+    "symbols",
+    "unicode",
+    "copy-paste",
+    "text-symbols",
+    "heart-symbol",
+    "aesthetic-symbols",
+    "special-characters",
+    "dataset",
+    "emoji",
+    "multilingual"
+  ],
+  "homepage": "https://fontvibe.ai/tools/heart-symbol",
+  "bugs": "https://github.com/Funovate-Technology/fontvibe-symbols/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Funovate-Technology/fontvibe-symbols.git",
+    "directory": "npm"
+  },
+  "license": "(CC-BY-4.0 AND MIT)",
+  "author": "Funovate Technology (https://fontvibe.ai)",
+  "main": "./index.js",
+  "module": "./index.mjs",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.mjs",
+      "require": "./index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "bin": {
+    "copy-paste-symbols": "./cli.js"
+  },
+  "files": [
+    "index.js",
+    "index.mjs",
+    "index.d.ts",
+    "cli.js",
+    "stats.json",
+    "data/symbols.json",
+    "data/categories.json",
+    "README.md",
+    "LICENSE",
+    "LICENSE-CODE",
+    "NOTICE"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "sideEffects": false,
+  "scripts": {
+    "prepack": "node scripts/sync-data.js",
+    "pretest": "node scripts/sync-data.js",
+    "test": "node test.js"
+  }
+}

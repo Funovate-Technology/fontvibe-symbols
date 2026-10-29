@@ -1,0 +1,1647 @@
+{
+ "category": {
+  "key": "Greek",
+  "slug": "greek",
+  "labels": {
+   "en": "Greek",
+   "es": "Griego",
+   "pt": "Grego",
+   "de": "Griechisch",
+   "ja": "ギリシャ文字",
+   "zh": "希腊字母"
+  },
+  "count": 49,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ "symbols": [
+  {
+   "id": "sym_00809",
+   "text": "α",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03B1"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER ALPHA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00810",
+   "text": "β",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03B2"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER BETA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00811",
+   "text": "γ",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03B3"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER GAMMA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00946",
+   "text": "δ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03B4"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER DELTA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00947",
+   "text": "ε",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03B5"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER EPSILON"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00948",
+   "text": "ζ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03B6"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER ZETA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00949",
+   "text": "η",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03B7"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER ETA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00808",
+   "text": "θ",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03B8"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER THETA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00950",
+   "text": "ι",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03B9"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER IOTA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00951",
+   "text": "κ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03BA"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER KAPPA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00807",
+   "text": "λ",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03BB"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER LAMDA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00761",
+   "text": "μ",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03BC"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER MU"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00952",
+   "text": "ν",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03BD"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER NU"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00953",
+   "text": "ξ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03BE"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER XI"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00954",
+   "text": "ο",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03BF"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER OMICRON"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00757",
+   "text": "π",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03C0"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER PI"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00955",
+   "text": "ρ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03C1"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER RHO"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00956",
+   "text": "ς",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03C2"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER FINAL SIGMA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00760",
+   "text": "σ",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03C3"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER SIGMA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00957",
+   "text": "τ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03C4"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER TAU"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00958",
+   "text": "υ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03C5"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER UPSILON"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00959",
+   "text": "φ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03C6"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER PHI"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00960",
+   "text": "χ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03C7"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER CHI"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00961",
+   "text": "ψ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03C8"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER PSI"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00962",
+   "text": "ω",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03C9"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER OMEGA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00963",
+   "text": "Α",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+0391"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER ALPHA"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00964",
+   "text": "Β",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+0392"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER BETA"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00965",
+   "text": "Γ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+0393"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER GAMMA"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00966",
+   "text": "Δ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+0394"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER DELTA"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00967",
+   "text": "Ε",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+0395"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER EPSILON"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00968",
+   "text": "Ζ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+0396"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER ZETA"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00969",
+   "text": "Η",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+0397"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER ETA"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00970",
+   "text": "Θ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+0398"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER THETA"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00971",
+   "text": "Ι",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+0399"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER IOTA"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00972",
+   "text": "Κ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+039A"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER KAPPA"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00973",
+   "text": "Λ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+039B"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER LAMDA"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00974",
+   "text": "Μ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+039C"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER MU"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00975",
+   "text": "Ν",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+039D"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER NU"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00976",
+   "text": "Ξ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+039E"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER XI"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00977",
+   "text": "Ο",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+039F"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER OMICRON"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00978",
+   "text": "Π",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03A0"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER PI"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00979",
+   "text": "Ρ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03A1"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER RHO"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00759",
+   "text": "Σ",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03A3"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER SIGMA"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00980",
+   "text": "Τ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03A4"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER TAU"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00981",
+   "text": "Υ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03A5"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER UPSILON"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00806",
+   "text": "Φ",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03A6"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER PHI"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00982",
+   "text": "Χ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03A7"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER CHI"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00983",
+   "text": "Ψ",
+   "categories": [
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03A8"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER PSI"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00771",
+   "text": "Ω",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03A9"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER OMEGA"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  }
+ ]
+}

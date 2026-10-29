@@ -1,0 +1,451 @@
+{
+ "category": {
+  "key": "Legal",
+  "slug": "legal",
+  "labels": {
+   "en": "Legal",
+   "es": "Legales",
+   "pt": "Jurídicos",
+   "de": "Rechtlich",
+   "ja": "法的記号",
+   "zh": "法律符号"
+  },
+  "count": 13,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ "symbols": [
+  {
+   "id": "sym_00902",
+   "text": "©",
+   "categories": [
+    "Legal"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00A9"
+   ],
+   "unicode_names": [
+    "COPYRIGHT SIGN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "copyright",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00903",
+   "text": "®",
+   "categories": [
+    "Legal"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00AE"
+   ],
+   "unicode_names": [
+    "REGISTERED SIGN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "registered",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00904",
+   "text": "™",
+   "categories": [
+    "Legal"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2122"
+   ],
+   "unicode_names": [
+    "TRADE MARK SIGN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Letterlike Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "trade mark",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00905",
+   "text": "℠",
+   "categories": [
+    "Legal"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2120"
+   ],
+   "unicode_names": [
+    "SERVICE MARK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Letterlike Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00906",
+   "text": "℗",
+   "categories": [
+    "Legal"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2117"
+   ],
+   "unicode_names": [
+    "SOUND RECORDING COPYRIGHT"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Letterlike Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00837",
+   "text": "§",
+   "categories": [
+    "Punctuation",
+    "Legal"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00A7"
+   ],
+   "unicode_names": [
+    "SECTION SIGN"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00836",
+   "text": "¶",
+   "categories": [
+    "Punctuation",
+    "Legal"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00B6"
+   ],
+   "unicode_names": [
+    "PILCROW SIGN"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00907",
+   "text": "№",
+   "categories": [
+    "Legal"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2116"
+   ],
+   "unicode_names": [
+    "NUMERO SIGN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Letterlike Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00908",
+   "text": "℞",
+   "categories": [
+    "Legal"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+211E"
+   ],
+   "unicode_names": [
+    "PRESCRIPTION TAKE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Letterlike Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00909",
+   "text": "℡",
+   "categories": [
+    "Legal"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2121"
+   ],
+   "unicode_names": [
+    "TELEPHONE SIGN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Letterlike Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00910",
+   "text": "℅",
+   "categories": [
+    "Legal",
+    "Degree"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2105"
+   ],
+   "unicode_names": [
+    "CARE OF"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Letterlike Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00911",
+   "text": "℄",
+   "categories": [
+    "Legal"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2104"
+   ],
+   "unicode_names": [
+    "CENTRE LINE SYMBOL"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Letterlike Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00912",
+   "text": "¤",
+   "categories": [
+    "Legal"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00A4"
+   ],
+   "unicode_names": [
+    "CURRENCY SIGN"
+   ],
+   "general_categories": [
+    "Sc"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  }
+ ]
+}

@@ -1,0 +1,524 @@
+{
+ "category": {
+  "key": "Weather",
+  "slug": "weather",
+  "labels": {
+   "en": "Weather",
+   "es": "Clima",
+   "pt": "Clima",
+   "de": "Wetter",
+   "ja": "天気",
+   "zh": "天气"
+  },
+  "count": 15,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ "symbols": [
+  {
+   "id": "sym_01251",
+   "text": "☀",
+   "categories": [
+    "Weather"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2600"
+   ],
+   "unicode_names": [
+    "BLACK SUN WITH RAYS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "sun",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01252",
+   "text": "☁",
+   "categories": [
+    "Weather"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2601"
+   ],
+   "unicode_names": [
+    "CLOUD"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "cloud",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01253",
+   "text": "☂",
+   "categories": [
+    "Weather"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2602"
+   ],
+   "unicode_names": [
+    "UMBRELLA"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "umbrella",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01254",
+   "text": "☃",
+   "categories": [
+    "Weather"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2603"
+   ],
+   "unicode_names": [
+    "SNOWMAN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "snowman",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01235",
+   "text": "☄",
+   "categories": [
+    "Zodiac",
+    "Weather"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2604"
+   ],
+   "unicode_names": [
+    "COMET"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "comet",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01255",
+   "text": "❄",
+   "categories": [
+    "Weather"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2744"
+   ],
+   "unicode_names": [
+    "SNOWFLAKE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "snowflake",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01256",
+   "text": "❅",
+   "categories": [
+    "Weather"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2745"
+   ],
+   "unicode_names": [
+    "TIGHT TRIFOLIATE SNOWFLAKE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01257",
+   "text": "❆",
+   "categories": [
+    "Weather"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2746"
+   ],
+   "unicode_names": [
+    "HEAVY CHEVRON SNOWFLAKE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01258",
+   "text": "⚡",
+   "categories": [
+    "Weather"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+26A1"
+   ],
+   "unicode_names": [
+    "HIGH VOLTAGE SIGN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "4.0"
+   ],
+   "unicode_version": "4.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "high voltage",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01259",
+   "text": "☔",
+   "categories": [
+    "Weather"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2614"
+   ],
+   "unicode_names": [
+    "UMBRELLA WITH RAIN DROPS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "4.0"
+   ],
+   "unicode_version": "4.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "umbrella with rain drops",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01260",
+   "text": "🌙",
+   "categories": [
+    "Weather"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F319"
+   ],
+   "unicode_names": [
+    "CRESCENT MOON"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "crescent moon",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01261",
+   "text": "☼",
+   "categories": [
+    "Weather"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+263C"
+   ],
+   "unicode_names": [
+    "WHITE SUN WITH RAYS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01232",
+   "text": "☽",
+   "categories": [
+    "Zodiac",
+    "Weather"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+263D"
+   ],
+   "unicode_names": [
+    "FIRST QUARTER MOON"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01234",
+   "text": "✺",
+   "categories": [
+    "Zodiac",
+    "Weather"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+273A"
+   ],
+   "unicode_names": [
+    "SIXTEEN POINTED ASTERISK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01262",
+   "text": "☁︎",
+   "categories": [
+    "Weather"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+2601",
+    "U+FE0E"
+   ],
+   "unicode_names": [
+    "CLOUD",
+    "VARIATION SELECTOR-15"
+   ],
+   "general_categories": [
+    "So",
+    "Mn"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Variation Selectors"
+   ],
+   "ages": [
+    "1.1",
+    "3.2"
+   ],
+   "unicode_version": "3.2",
+   "emoji": [
+    true,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  }
+ ]
+}

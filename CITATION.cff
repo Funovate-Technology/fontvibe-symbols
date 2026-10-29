@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "FontVibe Copy-and-Paste Symbols"
+message: "If you use this dataset, please cite it."
+type: dataset
+authors:
+  - name: "FontVibe"
+    website: "https://fontvibe.ai"
+abstract: >-
+  The copy-and-paste symbol library behind fontvibe.ai: hearts, heart combos,
+  stars, arrows, brackets, math, currency and other symbol categories, with
+  each category named in English, Spanish, Portuguese, German, Japanese and
+  Chinese, and every code point annotated with its Unicode 16.0 name, general
+  category, block, age and emoji properties. Kaomoji are published separately.
+keywords:
+  - symbols
+  - unicode
+  - copy-paste
+  - text symbols
+  - heart symbol
+  - emoji
+  - dataset
+  - multilingual
+license: CC-BY-4.0
+url: "https://fontvibe.ai/tools/heart-symbol"
+repository-code: "https://github.com/Funovate-Technology/fontvibe-symbols"
+version: "1.0.0"
+date-released: "2026-10-30"

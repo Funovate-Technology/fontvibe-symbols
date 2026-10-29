@@ -1,0 +1,583 @@
+{
+ "category": {
+  "key": "Zodiac",
+  "slug": "zodiac",
+  "labels": {
+   "en": "Zodiac",
+   "es": "Zodíaco",
+   "pt": "Zodíaco",
+   "de": "Sternzeichen",
+   "ja": "星座",
+   "zh": "星座"
+  },
+  "count": 17,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ "symbols": [
+  {
+   "id": "sym_01219",
+   "text": "♈",
+   "categories": [
+    "Zodiac"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2648"
+   ],
+   "unicode_names": [
+    "ARIES"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "Aries",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01220",
+   "text": "♉",
+   "categories": [
+    "Zodiac"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2649"
+   ],
+   "unicode_names": [
+    "TAURUS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "Taurus",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01221",
+   "text": "♊",
+   "categories": [
+    "Zodiac"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+264A"
+   ],
+   "unicode_names": [
+    "GEMINI"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "Gemini",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01222",
+   "text": "♋",
+   "categories": [
+    "Zodiac"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+264B"
+   ],
+   "unicode_names": [
+    "CANCER"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "Cancer",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01223",
+   "text": "♌",
+   "categories": [
+    "Zodiac"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+264C"
+   ],
+   "unicode_names": [
+    "LEO"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "Leo",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01224",
+   "text": "♍",
+   "categories": [
+    "Zodiac"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+264D"
+   ],
+   "unicode_names": [
+    "VIRGO"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "Virgo",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01225",
+   "text": "♎",
+   "categories": [
+    "Zodiac"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+264E"
+   ],
+   "unicode_names": [
+    "LIBRA"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "Libra",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01226",
+   "text": "♏",
+   "categories": [
+    "Zodiac"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+264F"
+   ],
+   "unicode_names": [
+    "SCORPIUS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "Scorpio",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01227",
+   "text": "♐",
+   "categories": [
+    "Zodiac"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2650"
+   ],
+   "unicode_names": [
+    "SAGITTARIUS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "Sagittarius",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01228",
+   "text": "♑",
+   "categories": [
+    "Zodiac"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2651"
+   ],
+   "unicode_names": [
+    "CAPRICORN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "Capricorn",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01229",
+   "text": "♒",
+   "categories": [
+    "Zodiac"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2652"
+   ],
+   "unicode_names": [
+    "AQUARIUS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "Aquarius",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01230",
+   "text": "♓",
+   "categories": [
+    "Zodiac"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2653"
+   ],
+   "unicode_names": [
+    "PISCES"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "Pisces",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01231",
+   "text": "☉",
+   "categories": [
+    "Zodiac"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2609"
+   ],
+   "unicode_names": [
+    "SUN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01232",
+   "text": "☽",
+   "categories": [
+    "Zodiac",
+    "Weather"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+263D"
+   ],
+   "unicode_names": [
+    "FIRST QUARTER MOON"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01233",
+   "text": "☾",
+   "categories": [
+    "Zodiac"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+263E"
+   ],
+   "unicode_names": [
+    "LAST QUARTER MOON"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01234",
+   "text": "✺",
+   "categories": [
+    "Zodiac",
+    "Weather"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+273A"
+   ],
+   "unicode_names": [
+    "SIXTEEN POINTED ASTERISK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01235",
+   "text": "☄",
+   "categories": [
+    "Zodiac",
+    "Weather"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2604"
+   ],
+   "unicode_names": [
+    "COMET"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "comet",
+   "alt_code": null
+  }
+ ]
+}

@@ -1,0 +1,816 @@
+{
+ "category": {
+  "key": "Punctuation",
+  "slug": "punctuation",
+  "labels": {
+   "en": "Punctuation",
+   "es": "Puntuación",
+   "pt": "Pontuação",
+   "de": "Satzzeichen",
+   "ja": "句読点",
+   "zh": "标点"
+  },
+  "count": 24,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ "symbols": [
+  {
+   "id": "sym_00829",
+   "text": "–",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2013"
+   ],
+   "unicode_names": [
+    "EN DASH"
+   ],
+   "general_categories": [
+    "Pd"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00830",
+   "text": "—",
+   "categories": [
+    "Punctuation",
+    "Lines"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2014"
+   ],
+   "unicode_names": [
+    "EM DASH"
+   ],
+   "general_categories": [
+    "Pd"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00831",
+   "text": "…",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2026"
+   ],
+   "unicode_names": [
+    "HORIZONTAL ELLIPSIS"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00832",
+   "text": "«",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00AB"
+   ],
+   "unicode_names": [
+    "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK"
+   ],
+   "general_categories": [
+    "Pi"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00833",
+   "text": "»",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00BB"
+   ],
+   "unicode_names": [
+    "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK"
+   ],
+   "general_categories": [
+    "Pf"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00834",
+   "text": "‹",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2039"
+   ],
+   "unicode_names": [
+    "SINGLE LEFT-POINTING ANGLE QUOTATION MARK"
+   ],
+   "general_categories": [
+    "Pi"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00835",
+   "text": "›",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+203A"
+   ],
+   "unicode_names": [
+    "SINGLE RIGHT-POINTING ANGLE QUOTATION MARK"
+   ],
+   "general_categories": [
+    "Pf"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00836",
+   "text": "¶",
+   "categories": [
+    "Punctuation",
+    "Legal"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00B6"
+   ],
+   "unicode_names": [
+    "PILCROW SIGN"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00837",
+   "text": "§",
+   "categories": [
+    "Punctuation",
+    "Legal"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00A7"
+   ],
+   "unicode_names": [
+    "SECTION SIGN"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00838",
+   "text": "†",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2020"
+   ],
+   "unicode_names": [
+    "DAGGER"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00839",
+   "text": "‡",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2021"
+   ],
+   "unicode_names": [
+    "DOUBLE DAGGER"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00802",
+   "text": "‰",
+   "categories": [
+    "Math",
+    "Punctuation",
+    "Degree"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2030"
+   ],
+   "unicode_names": [
+    "PER MILLE SIGN"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00840",
+   "text": "※",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+203B"
+   ],
+   "unicode_names": [
+    "REFERENCE MARK"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00841",
+   "text": "¡",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00A1"
+   ],
+   "unicode_names": [
+    "INVERTED EXCLAMATION MARK"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00842",
+   "text": "¿",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00BF"
+   ],
+   "unicode_names": [
+    "INVERTED QUESTION MARK"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00843",
+   "text": "“",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+201C"
+   ],
+   "unicode_names": [
+    "LEFT DOUBLE QUOTATION MARK"
+   ],
+   "general_categories": [
+    "Pi"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00844",
+   "text": "”",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+201D"
+   ],
+   "unicode_names": [
+    "RIGHT DOUBLE QUOTATION MARK"
+   ],
+   "general_categories": [
+    "Pf"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00845",
+   "text": "‘",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2018"
+   ],
+   "unicode_names": [
+    "LEFT SINGLE QUOTATION MARK"
+   ],
+   "general_categories": [
+    "Pi"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00846",
+   "text": "’",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2019"
+   ],
+   "unicode_names": [
+    "RIGHT SINGLE QUOTATION MARK"
+   ],
+   "general_categories": [
+    "Pf"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00847",
+   "text": "„",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+201E"
+   ],
+   "unicode_names": [
+    "DOUBLE LOW-9 QUOTATION MARK"
+   ],
+   "general_categories": [
+    "Ps"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00848",
+   "text": "‚",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+201A"
+   ],
+   "unicode_names": [
+    "SINGLE LOW-9 QUOTATION MARK"
+   ],
+   "general_categories": [
+    "Ps"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00849",
+   "text": "·",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00B7"
+   ],
+   "unicode_names": [
+    "MIDDLE DOT"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00850",
+   "text": "⁂",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2042"
+   ],
+   "unicode_names": [
+    "ASTERISM"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00851",
+   "text": "⸻",
+   "categories": [
+    "Punctuation"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2E3B"
+   ],
+   "unicode_names": [
+    "THREE-EM DASH"
+   ],
+   "general_categories": [
+    "Pd"
+   ],
+   "blocks": [
+    "Supplemental Punctuation"
+   ],
+   "ages": [
+    "6.1"
+   ],
+   "unicode_version": "6.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  }
+ ]
+}

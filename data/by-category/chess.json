@@ -1,0 +1,681 @@
+{
+ "category": {
+  "key": "Chess",
+  "slug": "chess",
+  "labels": {
+   "en": "Chess",
+   "es": "Ajedrez",
+   "pt": "Xadrez",
+   "de": "Schach",
+   "ja": "チェス",
+   "zh": "国际象棋"
+  },
+  "count": 20,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ "symbols": [
+  {
+   "id": "sym_00984",
+   "text": "♔",
+   "categories": [
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2654"
+   ],
+   "unicode_names": [
+    "WHITE CHESS KING"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00985",
+   "text": "♕",
+   "categories": [
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2655"
+   ],
+   "unicode_names": [
+    "WHITE CHESS QUEEN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00986",
+   "text": "♖",
+   "categories": [
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2656"
+   ],
+   "unicode_names": [
+    "WHITE CHESS ROOK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00987",
+   "text": "♗",
+   "categories": [
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2657"
+   ],
+   "unicode_names": [
+    "WHITE CHESS BISHOP"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00988",
+   "text": "♘",
+   "categories": [
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2658"
+   ],
+   "unicode_names": [
+    "WHITE CHESS KNIGHT"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00989",
+   "text": "♙",
+   "categories": [
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2659"
+   ],
+   "unicode_names": [
+    "WHITE CHESS PAWN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00990",
+   "text": "♚",
+   "categories": [
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+265A"
+   ],
+   "unicode_names": [
+    "BLACK CHESS KING"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00991",
+   "text": "♛",
+   "categories": [
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+265B"
+   ],
+   "unicode_names": [
+    "BLACK CHESS QUEEN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00992",
+   "text": "♜",
+   "categories": [
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+265C"
+   ],
+   "unicode_names": [
+    "BLACK CHESS ROOK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00993",
+   "text": "♝",
+   "categories": [
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+265D"
+   ],
+   "unicode_names": [
+    "BLACK CHESS BISHOP"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00994",
+   "text": "♞",
+   "categories": [
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+265E"
+   ],
+   "unicode_names": [
+    "BLACK CHESS KNIGHT"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00995",
+   "text": "♟",
+   "categories": [
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+265F"
+   ],
+   "unicode_names": [
+    "BLACK CHESS PAWN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "chess pawn",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00996",
+   "text": "♠",
+   "categories": [
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2660"
+   ],
+   "unicode_names": [
+    "BLACK SPADE SUIT"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "spade suit",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00002",
+   "text": "♥",
+   "categories": [
+    "Hearts",
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2665"
+   ],
+   "unicode_names": [
+    "BLACK HEART SUIT"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "heart suit",
+   "alt_code": "Alt+3"
+  },
+  {
+   "id": "sym_00997",
+   "text": "♦",
+   "categories": [
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2666"
+   ],
+   "unicode_names": [
+    "BLACK DIAMOND SUIT"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "diamond suit",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00998",
+   "text": "♣",
+   "categories": [
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2663"
+   ],
+   "unicode_names": [
+    "BLACK CLUB SUIT"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "club suit",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00999",
+   "text": "♤",
+   "categories": [
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2664"
+   ],
+   "unicode_names": [
+    "WHITE SPADE SUIT"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00001",
+   "text": "♡",
+   "categories": [
+    "Hearts",
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2661"
+   ],
+   "unicode_names": [
+    "WHITE HEART SUIT"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01000",
+   "text": "♢",
+   "categories": [
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2662"
+   ],
+   "unicode_names": [
+    "WHITE DIAMOND SUIT"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01001",
+   "text": "♧",
+   "categories": [
+    "Chess"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2667"
+   ],
+   "unicode_names": [
+    "WHITE CLUB SUIT"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  }
+ ]
+}

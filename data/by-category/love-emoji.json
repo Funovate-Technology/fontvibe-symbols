@@ -1,0 +1,8455 @@
+{
+ "category": {
+  "key": "Love Emoji",
+  "slug": "love-emoji",
+  "labels": {
+   "en": "Love Emoji",
+   "es": "Emojis de amor",
+   "pt": "Emojis de amor",
+   "de": "Liebes-Emojis",
+   "ja": "恋愛の絵文字",
+   "zh": "爱情 emoji"
+  },
+  "count": 109,
+  "fontvibe_page": "https://fontvibe.ai/tools/heart-symbol",
+  "dedicated_page": true
+ },
+ "symbols": [
+  {
+   "id": "sym_00648",
+   "text": "💍",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F48D"
+   ],
+   "unicode_names": [
+    "RING"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "ring",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00649",
+   "text": "🌹",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F339"
+   ],
+   "unicode_names": [
+    "ROSE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "rose",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00650",
+   "text": "🌷",
+   "categories": [
+    "Love Emoji",
+    "Flowers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F337"
+   ],
+   "unicode_names": [
+    "TULIP"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "tulip",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00651",
+   "text": "💐",
+   "categories": [
+    "Love Emoji",
+    "Flowers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F490"
+   ],
+   "unicode_names": [
+    "BOUQUET"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "bouquet",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00652",
+   "text": "👄",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F444"
+   ],
+   "unicode_names": [
+    "MOUTH"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "mouth",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00653",
+   "text": "😚",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F61A"
+   ],
+   "unicode_names": [
+    "KISSING FACE WITH CLOSED EYES"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Emoticons"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "kissing face with closed eyes",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00654",
+   "text": "🫰",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1FAF0"
+   ],
+   "unicode_names": [
+    "HAND WITH INDEX FINGER AND THUMB CROSSED"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Symbols and Pictographs Extended-A"
+   ],
+   "ages": [
+    "14.0"
+   ],
+   "unicode_version": "14.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "hand with index finger and thumb crossed",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00655",
+   "text": "🤟",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F91F"
+   ],
+   "unicode_names": [
+    "I LOVE YOU HAND SIGN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "love-you gesture",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00656",
+   "text": "👫",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F46B"
+   ],
+   "unicode_names": [
+    "MAN AND WOMAN HOLDING HANDS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "woman and man holding hands",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00657",
+   "text": "🏩",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F3E9"
+   ],
+   "unicode_names": [
+    "LOVE HOTEL"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "love hotel",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00658",
+   "text": "👩‍❤️‍👩",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 6,
+   "codepoints": [
+    "U+1F469",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN"
+   ],
+   "general_categories": [
+    "So",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true,
+    false,
+    true,
+    false,
+    false,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    false,
+    false,
+    false,
+    false,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00659",
+   "text": "👨‍❤️‍👨",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 6,
+   "codepoints": [
+    "U+1F468",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468"
+   ],
+   "unicode_names": [
+    "MAN",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN"
+   ],
+   "general_categories": [
+    "So",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true,
+    false,
+    true,
+    false,
+    false,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    false,
+    false,
+    false,
+    false,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00660",
+   "text": "୧⍤⃝💐🫶🏻🥹❤️‍🩹",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 11,
+   "codepoints": [
+    "U+0B67",
+    "U+2364",
+    "U+20DD",
+    "U+1F490",
+    "U+1FAF6",
+    "U+1F3FB",
+    "U+1F979",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1FA79"
+   ],
+   "unicode_names": [
+    "ORIYA DIGIT ONE",
+    "APL FUNCTIONAL SYMBOL JOT DIAERESIS",
+    "COMBINING ENCLOSING CIRCLE",
+    "BOUQUET",
+    "HEART HANDS",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "FACE HOLDING BACK TEARS",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADHESIVE BANDAGE"
+   ],
+   "general_categories": [
+    "Nd",
+    "So",
+    "Me",
+    "So",
+    "So",
+    "Sk",
+    "So",
+    "So",
+    "Mn",
+    "Cf",
+    "So"
+   ],
+   "blocks": [
+    "Oriya",
+    "Miscellaneous Technical",
+    "Combining Diacritical Marks for Symbols",
+    "Miscellaneous Symbols and Pictographs",
+    "Symbols and Pictographs Extended-A",
+    "Miscellaneous Symbols and Pictographs",
+    "Supplemental Symbols and Pictographs",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Symbols and Pictographs Extended-A"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1",
+    "6.0",
+    "14.0",
+    "8.0",
+    "14.0",
+    "1.1",
+    "3.2",
+    "1.1",
+    "12.0"
+   ],
+   "unicode_version": "14.0",
+   "emoji": [
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    true
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    true
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00661",
+   "text": "🫶🏻🥹❤️‍🩹",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 7,
+   "codepoints": [
+    "U+1FAF6",
+    "U+1F3FB",
+    "U+1F979",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1FA79"
+   ],
+   "unicode_names": [
+    "HEART HANDS",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "FACE HOLDING BACK TEARS",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADHESIVE BANDAGE"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "So",
+    "So",
+    "Mn",
+    "Cf",
+    "So"
+   ],
+   "blocks": [
+    "Symbols and Pictographs Extended-A",
+    "Miscellaneous Symbols and Pictographs",
+    "Supplemental Symbols and Pictographs",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Symbols and Pictographs Extended-A"
+   ],
+   "ages": [
+    "14.0",
+    "8.0",
+    "14.0",
+    "1.1",
+    "3.2",
+    "1.1",
+    "12.0"
+   ],
+   "unicode_version": "14.0",
+   "emoji": [
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    true
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00662",
+   "text": "👩🏿‍❤️‍👩🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00663",
+   "text": "👨🏼‍❤️‍👨🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, medium-light skin tone, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00664",
+   "text": "👩🏿‍❤️‍👩🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, dark skin tone, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00665",
+   "text": "👨🏿‍❤️‍👨🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00666",
+   "text": "👩🏻‍❤️‍👩🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00667",
+   "text": "👨🏻‍❤️‍👨🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00668",
+   "text": "👨🏽‍❤️‍👨🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00669",
+   "text": "👩🏽‍❤️‍👩🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00670",
+   "text": "👩🏽‍❤️‍👨🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00671",
+   "text": "👩🏿‍❤️‍👨🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00672",
+   "text": "👩🏻‍❤️‍👨🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00673",
+   "text": "👨🏾‍❤️‍👨🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00674",
+   "text": "👩🏼‍❤️‍👩🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00675",
+   "text": "👨🏼‍❤️‍👨🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00676",
+   "text": "👩🏾‍❤️‍👩🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00677",
+   "text": "👩🏾‍❤️‍👨🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00678",
+   "text": "👩🏼‍❤️‍👨🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00679",
+   "text": "👩🏻‍❤️‍👩🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, light skin tone, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00680",
+   "text": "👩🏽‍❤️‍👩🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, medium skin tone, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00681",
+   "text": "👨🏻‍❤️‍👨🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, light skin tone, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00682",
+   "text": "🧑🏽‍❤️‍🧑🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, medium skin tone, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00683",
+   "text": "👨🏿‍❤️‍👨🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, dark skin tone, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00684",
+   "text": "🧑🏿‍❤️‍🧑🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, dark skin tone, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00685",
+   "text": "👨🏽‍❤️‍👨🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, medium skin tone, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00686",
+   "text": "👩🏽‍❤️‍👩🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, medium skin tone, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00687",
+   "text": "👩🏿‍❤️‍👩🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, dark skin tone, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00688",
+   "text": "👩🏻‍❤️‍👩🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, light skin tone, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00689",
+   "text": "👨🏻‍❤️‍👨🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, light skin tone, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00690",
+   "text": "👨🏽‍❤️‍👨🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, medium skin tone, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00691",
+   "text": "🧑🏻‍❤️‍🧑🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, light skin tone, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00692",
+   "text": "🧑🏿‍❤️‍🧑🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, dark skin tone, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00693",
+   "text": "🧑🏻‍❤️‍🧑🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, light skin tone, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00694",
+   "text": "👨🏿‍❤️‍👨🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, dark skin tone, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00695",
+   "text": "🧑🏽‍❤️‍🧑🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, medium skin tone, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00696",
+   "text": "👩🏿‍❤️‍👨🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, dark skin tone, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00697",
+   "text": "👩🏽‍❤️‍👨🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, medium skin tone, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00698",
+   "text": "👩🏻‍❤️‍👨🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, light skin tone, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00699",
+   "text": "👩🏻‍❤️‍👨🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, light skin tone, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00700",
+   "text": "👩🏽‍❤️‍👨🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, medium skin tone, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00701",
+   "text": "👩🏿‍❤️‍👨🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, dark skin tone, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00702",
+   "text": "🧑🏿‍❤️‍🧑🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, dark skin tone, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00703",
+   "text": "🧑🏽‍❤️‍🧑🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, medium skin tone, medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00704",
+   "text": "👩🏼‍❤️‍👩🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, medium-light skin tone, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00705",
+   "text": "👨🏾‍❤️‍👨🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, medium-dark skin tone, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00706",
+   "text": "👨🏻‍❤️‍👨🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, light skin tone, medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00707",
+   "text": "🧑🏻‍❤️‍🧑🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, light skin tone, medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00708",
+   "text": "👩🏿‍❤️‍👩🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, dark skin tone, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00709",
+   "text": "👩🏼‍❤️‍👩🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, medium-light skin tone, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00710",
+   "text": "👨🏼‍❤️‍👨🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, medium-light skin tone, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00711",
+   "text": "🧑🏼‍❤️‍🧑🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, medium-light skin tone, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00712",
+   "text": "👨🏽‍❤️‍👨🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, medium skin tone, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00713",
+   "text": "👩🏼‍❤️‍👩🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, medium-light skin tone, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00714",
+   "text": "🧑🏾‍❤️‍🧑🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, medium-dark skin tone, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00715",
+   "text": "🧑🏼‍❤️‍🧑🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, medium-light skin tone, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00716",
+   "text": "🧑🏽‍❤️‍🧑🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, medium skin tone, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00717",
+   "text": "🧑🏾‍❤️‍🧑🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, medium-dark skin tone, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00718",
+   "text": "🧑🏿‍❤️‍🧑🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, dark skin tone, medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00719",
+   "text": "👩🏻‍❤️‍👩🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, light skin tone, medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00720",
+   "text": "👩🏿‍❤️‍👩🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, dark skin tone, medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00721",
+   "text": "🧑🏾‍❤️‍🧑🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, medium-dark skin tone, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00722",
+   "text": "🧑🏼‍❤️‍🧑🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, medium-light skin tone, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00723",
+   "text": "👩🏾‍❤️‍👩🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, medium-dark skin tone, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00724",
+   "text": "👨🏼‍❤️‍👨🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, medium-light skin tone, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00725",
+   "text": "🧑🏻‍❤️‍🧑🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, light skin tone, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00726",
+   "text": "👩🏻‍❤️‍👩🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, light skin tone, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00727",
+   "text": "👨🏽‍❤️‍👨🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, medium skin tone, medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00728",
+   "text": "👨🏾‍❤️‍👨🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, medium-dark skin tone, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00729",
+   "text": "👩🏾‍❤️‍👩🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, medium-dark skin tone, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00730",
+   "text": "👩🏾‍❤️‍👩🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, medium-dark skin tone, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00731",
+   "text": "👨🏾‍❤️‍👨🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, medium-dark skin tone, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00732",
+   "text": "👩🏽‍❤️‍👩🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, medium skin tone, medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00733",
+   "text": "👨🏻‍❤️‍👨🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, light skin tone, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00734",
+   "text": "👨🏿‍❤️‍👨🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, dark skin tone, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00735",
+   "text": "👩🏽‍❤️‍👩🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, medium skin tone, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00736",
+   "text": "👨🏿‍❤️‍👨🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, dark skin tone, medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00737",
+   "text": "👩🏾‍❤️‍👨🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, medium-dark skin tone, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00738",
+   "text": "👩🏽‍❤️‍👨🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, medium skin tone, medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00739",
+   "text": "👩🏻‍❤️‍👨🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, light skin tone, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00740",
+   "text": "👩🏻‍❤️‍👨🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FB",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, light skin tone, medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00741",
+   "text": "👩🏾‍❤️‍👨🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, medium-dark skin tone, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00742",
+   "text": "👩🏼‍❤️‍👨🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, medium-light skin tone, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00743",
+   "text": "👩🏿‍❤️‍👨🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, dark skin tone, medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00744",
+   "text": "👩🏽‍❤️‍👨🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FD",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, medium skin tone, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00745",
+   "text": "👩🏼‍❤️‍👨🏿",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FF"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, medium-light skin tone, dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00746",
+   "text": "👩🏼‍❤️‍👨🏽",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FD"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-4"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, medium-light skin tone, medium skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00747",
+   "text": "👩🏿‍❤️‍👨🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FF",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-6",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, dark skin tone, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00748",
+   "text": "👩🏾‍❤️‍👨🏻",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FB"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, medium-dark skin tone, light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00749",
+   "text": "👩🏼‍❤️‍👩🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, medium-light skin tone, medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00750",
+   "text": "👨🏾‍❤️‍👨🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, medium-dark skin tone, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00751",
+   "text": "👩🏾‍❤️‍👩🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F469",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, woman, medium-dark skin tone, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00752",
+   "text": "🧑🏾‍❤️‍🧑🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, medium-dark skin tone, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00753",
+   "text": "🧑🏼‍❤️‍🧑🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F9D1",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F9D1",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "ADULT",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Supplemental Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "10.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "10.0",
+    "8.0"
+   ],
+   "unicode_version": "10.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: person, person, medium-light skin tone, medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00754",
+   "text": "👨🏼‍❤️‍👨🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F468",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: man, man, medium-light skin tone, medium-dark skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00755",
+   "text": "👩🏾‍❤️‍👨🏼",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FE",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FC"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, medium-dark skin tone, medium-light skin tone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00756",
+   "text": "👩🏼‍❤️‍👨🏾",
+   "categories": [
+    "Love Emoji"
+   ],
+   "length": 8,
+   "codepoints": [
+    "U+1F469",
+    "U+1F3FC",
+    "U+200D",
+    "U+2764",
+    "U+FE0F",
+    "U+200D",
+    "U+1F468",
+    "U+1F3FE"
+   ],
+   "unicode_names": [
+    "WOMAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-3",
+    "ZERO WIDTH JOINER",
+    "HEAVY BLACK HEART",
+    "VARIATION SELECTOR-16",
+    "ZERO WIDTH JOINER",
+    "MAN",
+    "EMOJI MODIFIER FITZPATRICK TYPE-5"
+   ],
+   "general_categories": [
+    "So",
+    "Sk",
+    "Cf",
+    "So",
+    "Mn",
+    "Cf",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs",
+    "General Punctuation",
+    "Dingbats",
+    "Variation Selectors",
+    "General Punctuation",
+    "Miscellaneous Symbols and Pictographs",
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0",
+    "8.0",
+    "1.1",
+    "1.1",
+    "3.2",
+    "1.1",
+    "6.0",
+    "8.0"
+   ],
+   "unicode_version": "8.0",
+   "emoji": [
+    true,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_presentation": [
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    true,
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "couple with heart: woman, man, medium-light skin tone, medium-dark skin tone",
+   "alt_code": null
+  }
+ ]
+}

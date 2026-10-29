@@ -1,0 +1,4 @@
+data/
+stats.json
+*.tgz
+node_modules/

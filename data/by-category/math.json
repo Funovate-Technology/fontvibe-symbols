@@ -1,0 +1,1853 @@
+{
+ "category": {
+  "key": "Math",
+  "slug": "math",
+  "labels": {
+   "en": "Math",
+   "es": "Matemáticos",
+   "pt": "Matemáticos",
+   "de": "Mathe",
+   "ja": "数学",
+   "zh": "数学"
+  },
+  "count": 55,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ "symbols": [
+  {
+   "id": "sym_00757",
+   "text": "π",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03C0"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER PI"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00758",
+   "text": "∞",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+221E"
+   ],
+   "unicode_names": [
+    "INFINITY"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00759",
+   "text": "Σ",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03A3"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER SIGMA"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00760",
+   "text": "σ",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03C3"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER SIGMA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00761",
+   "text": "μ",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03BC"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER MU"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00762",
+   "text": "√",
+   "categories": [
+    "Math",
+    "Checkmarks"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+221A"
+   ],
+   "unicode_names": [
+    "SQUARE ROOT"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00763",
+   "text": "∛",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+221B"
+   ],
+   "unicode_names": [
+    "CUBE ROOT"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00764",
+   "text": "∜",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+221C"
+   ],
+   "unicode_names": [
+    "FOURTH ROOT"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00765",
+   "text": "∫",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+222B"
+   ],
+   "unicode_names": [
+    "INTEGRAL"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00766",
+   "text": "∬",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+222C"
+   ],
+   "unicode_names": [
+    "DOUBLE INTEGRAL"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00767",
+   "text": "∮",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+222E"
+   ],
+   "unicode_names": [
+    "CONTOUR INTEGRAL"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00768",
+   "text": "∂",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2202"
+   ],
+   "unicode_names": [
+    "PARTIAL DIFFERENTIAL"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00769",
+   "text": "∇",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2207"
+   ],
+   "unicode_names": [
+    "NABLA"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00770",
+   "text": "∆",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2206"
+   ],
+   "unicode_names": [
+    "INCREMENT"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00771",
+   "text": "Ω",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03A9"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER OMEGA"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00772",
+   "text": "℧",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2127"
+   ],
+   "unicode_names": [
+    "INVERTED OHM SIGN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Letterlike Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00773",
+   "text": "≤",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2264"
+   ],
+   "unicode_names": [
+    "LESS-THAN OR EQUAL TO"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00774",
+   "text": "≥",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2265"
+   ],
+   "unicode_names": [
+    "GREATER-THAN OR EQUAL TO"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00775",
+   "text": "≠",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2260"
+   ],
+   "unicode_names": [
+    "NOT EQUAL TO"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00776",
+   "text": "≈",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2248"
+   ],
+   "unicode_names": [
+    "ALMOST EQUAL TO"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00777",
+   "text": "≡",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2261"
+   ],
+   "unicode_names": [
+    "IDENTICAL TO"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00778",
+   "text": "±",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00B1"
+   ],
+   "unicode_names": [
+    "PLUS-MINUS SIGN"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00779",
+   "text": "∓",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2213"
+   ],
+   "unicode_names": [
+    "MINUS-OR-PLUS SIGN"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00780",
+   "text": "×",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00D7"
+   ],
+   "unicode_names": [
+    "MULTIPLICATION SIGN"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00781",
+   "text": "÷",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00F7"
+   ],
+   "unicode_names": [
+    "DIVISION SIGN"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00782",
+   "text": "⋅",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+22C5"
+   ],
+   "unicode_names": [
+    "DOT OPERATOR"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00783",
+   "text": "∝",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+221D"
+   ],
+   "unicode_names": [
+    "PROPORTIONAL TO"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00784",
+   "text": "∈",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2208"
+   ],
+   "unicode_names": [
+    "ELEMENT OF"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00785",
+   "text": "∉",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2209"
+   ],
+   "unicode_names": [
+    "NOT AN ELEMENT OF"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00786",
+   "text": "∋",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+220B"
+   ],
+   "unicode_names": [
+    "CONTAINS AS MEMBER"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00787",
+   "text": "⊂",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2282"
+   ],
+   "unicode_names": [
+    "SUBSET OF"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00788",
+   "text": "⊃",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2283"
+   ],
+   "unicode_names": [
+    "SUPERSET OF"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00789",
+   "text": "⊆",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2286"
+   ],
+   "unicode_names": [
+    "SUBSET OF OR EQUAL TO"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00790",
+   "text": "⊇",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2287"
+   ],
+   "unicode_names": [
+    "SUPERSET OF OR EQUAL TO"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00791",
+   "text": "∪",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+222A"
+   ],
+   "unicode_names": [
+    "UNION"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00792",
+   "text": "∩",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2229"
+   ],
+   "unicode_names": [
+    "INTERSECTION"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00793",
+   "text": "∀",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2200"
+   ],
+   "unicode_names": [
+    "FOR ALL"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00794",
+   "text": "∃",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2203"
+   ],
+   "unicode_names": [
+    "THERE EXISTS"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00795",
+   "text": "∄",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2204"
+   ],
+   "unicode_names": [
+    "THERE DOES NOT EXIST"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00796",
+   "text": "∅",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2205"
+   ],
+   "unicode_names": [
+    "EMPTY SET"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00797",
+   "text": "∴",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2234"
+   ],
+   "unicode_names": [
+    "THEREFORE"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00798",
+   "text": "∵",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2235"
+   ],
+   "unicode_names": [
+    "BECAUSE"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00799",
+   "text": "°",
+   "categories": [
+    "Math",
+    "Degree",
+    "Aesthetic"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+00B0"
+   ],
+   "unicode_names": [
+    "DEGREE SIGN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": "Alt+0176"
+  },
+  {
+   "id": "sym_00800",
+   "text": "′",
+   "categories": [
+    "Math",
+    "Degree"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2032"
+   ],
+   "unicode_names": [
+    "PRIME"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00801",
+   "text": "″",
+   "categories": [
+    "Math",
+    "Degree"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2033"
+   ],
+   "unicode_names": [
+    "DOUBLE PRIME"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00802",
+   "text": "‰",
+   "categories": [
+    "Math",
+    "Punctuation",
+    "Degree"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2030"
+   ],
+   "unicode_names": [
+    "PER MILLE SIGN"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "General Punctuation"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00803",
+   "text": "∠",
+   "categories": [
+    "Math",
+    "Degree"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2220"
+   ],
+   "unicode_names": [
+    "ANGLE"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00804",
+   "text": "⊥",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+22A5"
+   ],
+   "unicode_names": [
+    "UP TACK"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00805",
+   "text": "∥",
+   "categories": [
+    "Math"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2225"
+   ],
+   "unicode_names": [
+    "PARALLEL TO"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00806",
+   "text": "Φ",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03A6"
+   ],
+   "unicode_names": [
+    "GREEK CAPITAL LETTER PHI"
+   ],
+   "general_categories": [
+    "Lu"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00807",
+   "text": "λ",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03BB"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER LAMDA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00808",
+   "text": "θ",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03B8"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER THETA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00809",
+   "text": "α",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03B1"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER ALPHA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00810",
+   "text": "β",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03B2"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER BETA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00811",
+   "text": "γ",
+   "categories": [
+    "Math",
+    "Greek"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+03B3"
+   ],
+   "unicode_names": [
+    "GREEK SMALL LETTER GAMMA"
+   ],
+   "general_categories": [
+    "Ll"
+   ],
+   "blocks": [
+    "Greek and Coptic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  }
+ ]
+}

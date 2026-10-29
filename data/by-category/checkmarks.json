@@ -1,0 +1,449 @@
+{
+ "category": {
+  "key": "Checkmarks",
+  "slug": "checkmarks",
+  "labels": {
+   "en": "Checkmarks",
+   "es": "Marcas de verificación",
+   "pt": "Marcas de seleção",
+   "de": "Häkchen",
+   "ja": "チェックマーク",
+   "zh": "对勾"
+  },
+  "count": 13,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ "symbols": [
+  {
+   "id": "sym_00852",
+   "text": "✓",
+   "categories": [
+    "Checkmarks"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2713"
+   ],
+   "unicode_names": [
+    "CHECK MARK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00853",
+   "text": "✔",
+   "categories": [
+    "Checkmarks"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2714"
+   ],
+   "unicode_names": [
+    "HEAVY CHECK MARK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "check mark",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00854",
+   "text": "✗",
+   "categories": [
+    "Checkmarks"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2717"
+   ],
+   "unicode_names": [
+    "BALLOT X"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00855",
+   "text": "✘",
+   "categories": [
+    "Checkmarks"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2718"
+   ],
+   "unicode_names": [
+    "HEAVY BALLOT X"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00856",
+   "text": "☑",
+   "categories": [
+    "Checkmarks"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2611"
+   ],
+   "unicode_names": [
+    "BALLOT BOX WITH CHECK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "check box with check",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00857",
+   "text": "☒",
+   "categories": [
+    "Checkmarks"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2612"
+   ],
+   "unicode_names": [
+    "BALLOT BOX WITH X"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00858",
+   "text": "✅",
+   "categories": [
+    "Checkmarks"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2705"
+   ],
+   "unicode_names": [
+    "WHITE HEAVY CHECK MARK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "check mark button",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00859",
+   "text": "❌",
+   "categories": [
+    "Checkmarks"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+274C"
+   ],
+   "unicode_names": [
+    "CROSS MARK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "cross mark",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00860",
+   "text": "❎",
+   "categories": [
+    "Checkmarks"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+274E"
+   ],
+   "unicode_names": [
+    "NEGATIVE SQUARED CROSS MARK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "cross mark button",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00762",
+   "text": "√",
+   "categories": [
+    "Math",
+    "Checkmarks"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+221A"
+   ],
+   "unicode_names": [
+    "SQUARE ROOT"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00861",
+   "text": "✕",
+   "categories": [
+    "Checkmarks"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2715"
+   ],
+   "unicode_names": [
+    "MULTIPLICATION X"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_00862",
+   "text": "✖",
+   "categories": [
+    "Checkmarks"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2716"
+   ],
+   "unicode_names": [
+    "HEAVY MULTIPLICATION X"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": "unqualified",
+   "emoji_name": "multiply",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00863",
+   "text": "﹖",
+   "categories": [
+    "Checkmarks"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+FE56"
+   ],
+   "unicode_names": [
+    "SMALL QUESTION MARK"
+   ],
+   "general_categories": [
+    "Po"
+   ],
+   "blocks": [
+    "Small Form Variants"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  }
+ ]
+}

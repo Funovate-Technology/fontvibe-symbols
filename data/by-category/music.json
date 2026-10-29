@@ -1,0 +1,1072 @@
+{
+ "category": {
+  "key": "Music",
+  "slug": "music",
+  "labels": {
+   "en": "Music",
+   "es": "Música",
+   "pt": "Música",
+   "de": "Musik",
+   "ja": "音楽",
+   "zh": "音乐"
+  },
+  "count": 30,
+  "fontvibe_page": "https://fontvibe.ai/tools/music-note-symbol",
+  "dedicated_page": true
+ },
+ "symbols": [
+  {
+   "id": "sym_01136",
+   "text": "𝄡",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1D121"
+   ],
+   "unicode_names": [
+    "MUSICAL SYMBOL C CLEF"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Musical Symbols"
+   ],
+   "ages": [
+    "3.1"
+   ],
+   "unicode_version": "3.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01137",
+   "text": "𝄢",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1D122"
+   ],
+   "unicode_names": [
+    "MUSICAL SYMBOL F CLEF"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Musical Symbols"
+   ],
+   "ages": [
+    "3.1"
+   ],
+   "unicode_version": "3.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01138",
+   "text": "𝄪",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1D12A"
+   ],
+   "unicode_names": [
+    "MUSICAL SYMBOL DOUBLE SHARP"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Musical Symbols"
+   ],
+   "ages": [
+    "3.1"
+   ],
+   "unicode_version": "3.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01139",
+   "text": "𝄫",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1D12B"
+   ],
+   "unicode_names": [
+    "MUSICAL SYMBOL DOUBLE FLAT"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Musical Symbols"
+   ],
+   "ages": [
+    "3.1"
+   ],
+   "unicode_version": "3.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01140",
+   "text": "🎹",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F3B9"
+   ],
+   "unicode_names": [
+    "MUSICAL KEYBOARD"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "musical keyboard",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01141",
+   "text": "🎸",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F3B8"
+   ],
+   "unicode_names": [
+    "GUITAR"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "guitar",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01142",
+   "text": "🎺",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F3BA"
+   ],
+   "unicode_names": [
+    "TRUMPET"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "trumpet",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01143",
+   "text": "🎷",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F3B7"
+   ],
+   "unicode_names": [
+    "SAXOPHONE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "saxophone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01144",
+   "text": "🥁",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F941"
+   ],
+   "unicode_names": [
+    "DRUM WITH DRUMSTICKS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs"
+   ],
+   "ages": [
+    "9.0"
+   ],
+   "unicode_version": "9.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "drum",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01145",
+   "text": "🎻",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F3BB"
+   ],
+   "unicode_names": [
+    "VIOLIN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "violin",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01146",
+   "text": "📻",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F4FB"
+   ],
+   "unicode_names": [
+    "RADIO"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "radio",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01147",
+   "text": "♪♪",
+   "categories": [
+    "Music"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+266A",
+    "U+266A"
+   ],
+   "unicode_names": [
+    "EIGHTH NOTE",
+    "EIGHTH NOTE"
+   ],
+   "general_categories": [
+    "So",
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01148",
+   "text": "♫♪",
+   "categories": [
+    "Music"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+266B",
+    "U+266A"
+   ],
+   "unicode_names": [
+    "BEAMED EIGHTH NOTES",
+    "EIGHTH NOTE"
+   ],
+   "general_categories": [
+    "So",
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01149",
+   "text": "♬♩",
+   "categories": [
+    "Music"
+   ],
+   "length": 2,
+   "codepoints": [
+    "U+266C",
+    "U+2669"
+   ],
+   "unicode_names": [
+    "BEAMED SIXTEENTH NOTES",
+    "QUARTER NOTE"
+   ],
+   "general_categories": [
+    "So",
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols",
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01150",
+   "text": "⋆♪⋆",
+   "categories": [
+    "Music"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+22C6",
+    "U+266A",
+    "U+22C6"
+   ],
+   "unicode_names": [
+    "STAR OPERATOR",
+    "EIGHTH NOTE",
+    "STAR OPERATOR"
+   ],
+   "general_categories": [
+    "Sm",
+    "So",
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators",
+    "Miscellaneous Symbols",
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01151",
+   "text": "˚♪˚",
+   "categories": [
+    "Music"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+02DA",
+    "U+266A",
+    "U+02DA"
+   ],
+   "unicode_names": [
+    "RING ABOVE",
+    "EIGHTH NOTE",
+    "RING ABOVE"
+   ],
+   "general_categories": [
+    "Sk",
+    "So",
+    "Sk"
+   ],
+   "blocks": [
+    "Spacing Modifier Letters",
+    "Miscellaneous Symbols",
+    "Spacing Modifier Letters"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01152",
+   "text": "·♫·",
+   "categories": [
+    "Music"
+   ],
+   "length": 3,
+   "codepoints": [
+    "U+00B7",
+    "U+266B",
+    "U+00B7"
+   ],
+   "unicode_names": [
+    "MIDDLE DOT",
+    "BEAMED EIGHTH NOTES",
+    "MIDDLE DOT"
+   ],
+   "general_categories": [
+    "Po",
+    "So",
+    "Po"
+   ],
+   "blocks": [
+    "Latin-1 Supplement",
+    "Miscellaneous Symbols",
+    "Latin-1 Supplement"
+   ],
+   "ages": [
+    "1.1",
+    "1.1",
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false,
+    false,
+    false
+   ],
+   "emoji_presentation": [
+    false,
+    false,
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01153",
+   "text": "♪",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+266A"
+   ],
+   "unicode_names": [
+    "EIGHTH NOTE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": "Alt+13"
+  },
+  {
+   "id": "sym_01154",
+   "text": "♫",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+266B"
+   ],
+   "unicode_names": [
+    "BEAMED EIGHTH NOTES"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": "Alt+14"
+  },
+  {
+   "id": "sym_01155",
+   "text": "♬",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+266C"
+   ],
+   "unicode_names": [
+    "BEAMED SIXTEENTH NOTES"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01156",
+   "text": "♩",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2669"
+   ],
+   "unicode_names": [
+    "QUARTER NOTE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01157",
+   "text": "♭",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+266D"
+   ],
+   "unicode_names": [
+    "MUSIC FLAT SIGN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01158",
+   "text": "♮",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+266E"
+   ],
+   "unicode_names": [
+    "MUSIC NATURAL SIGN"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01159",
+   "text": "♯",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+266F"
+   ],
+   "unicode_names": [
+    "MUSIC SHARP SIGN"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01160",
+   "text": "🎵",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F3B5"
+   ],
+   "unicode_names": [
+    "MUSICAL NOTE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "musical note",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01161",
+   "text": "🎶",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F3B6"
+   ],
+   "unicode_names": [
+    "MULTIPLE MUSICAL NOTES"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "musical notes",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01162",
+   "text": "🎼",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F3BC"
+   ],
+   "unicode_names": [
+    "MUSICAL SCORE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "musical score",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01163",
+   "text": "𝄞",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1D11E"
+   ],
+   "unicode_names": [
+    "MUSICAL SYMBOL G CLEF"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Musical Symbols"
+   ],
+   "ages": [
+    "3.1"
+   ],
+   "unicode_version": "3.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01164",
+   "text": "🎧",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F3A7"
+   ],
+   "unicode_names": [
+    "HEADPHONE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "headphone",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01165",
+   "text": "🎤",
+   "categories": [
+    "Music"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F3A4"
+   ],
+   "unicode_names": [
+    "MICROPHONE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "microphone",
+   "alt_code": null
+  }
+ ]
+}

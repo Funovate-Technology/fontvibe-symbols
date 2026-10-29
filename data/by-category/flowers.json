@@ -1,0 +1,617 @@
+{
+ "category": {
+  "key": "Flowers",
+  "slug": "flowers",
+  "labels": {
+   "en": "Flowers",
+   "es": "Flores",
+   "pt": "Flores",
+   "de": "Blumen",
+   "ja": "花",
+   "zh": "花朵"
+  },
+  "count": 18,
+  "fontvibe_page": "https://fontvibe.ai/tools/fancy-font-generator",
+  "dedicated_page": false
+ },
+ "symbols": [
+  {
+   "id": "sym_01166",
+   "text": "✿",
+   "categories": [
+    "Flowers",
+    "Aesthetic"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+273F"
+   ],
+   "unicode_names": [
+    "BLACK FLORETTE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01167",
+   "text": "❀",
+   "categories": [
+    "Flowers",
+    "Aesthetic"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2740"
+   ],
+   "unicode_names": [
+    "WHITE FLORETTE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01168",
+   "text": "❁",
+   "categories": [
+    "Flowers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2741"
+   ],
+   "unicode_names": [
+    "EIGHT PETALLED OUTLINED BLACK FLORETTE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01169",
+   "text": "✾",
+   "categories": [
+    "Flowers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+273E"
+   ],
+   "unicode_names": [
+    "SIX PETALLED BLACK AND WHITE FLORETTE"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01170",
+   "text": "❃",
+   "categories": [
+    "Flowers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2743"
+   ],
+   "unicode_names": [
+    "HEAVY TEARDROP-SPOKED PINWHEEL ASTERISK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01171",
+   "text": "❋",
+   "categories": [
+    "Flowers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+274B"
+   ],
+   "unicode_names": [
+    "HEAVY EIGHT TEARDROP-SPOKED PROPELLER ASTERISK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01172",
+   "text": "🌸",
+   "categories": [
+    "Flowers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F338"
+   ],
+   "unicode_names": [
+    "CHERRY BLOSSOM"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "cherry blossom",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01173",
+   "text": "🌺",
+   "categories": [
+    "Flowers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F33A"
+   ],
+   "unicode_names": [
+    "HIBISCUS"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "hibiscus",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01174",
+   "text": "🌼",
+   "categories": [
+    "Flowers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F33C"
+   ],
+   "unicode_names": [
+    "BLOSSOM"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "blossom",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00650",
+   "text": "🌷",
+   "categories": [
+    "Love Emoji",
+    "Flowers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F337"
+   ],
+   "unicode_names": [
+    "TULIP"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "tulip",
+   "alt_code": null
+  },
+  {
+   "id": "sym_00651",
+   "text": "💐",
+   "categories": [
+    "Love Emoji",
+    "Flowers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F490"
+   ],
+   "unicode_names": [
+    "BOUQUET"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols and Pictographs"
+   ],
+   "ages": [
+    "6.0"
+   ],
+   "unicode_version": "6.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "bouquet",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01175",
+   "text": "🥀",
+   "categories": [
+    "Flowers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+1F940"
+   ],
+   "unicode_names": [
+    "WILTED FLOWER"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Supplemental Symbols and Pictographs"
+   ],
+   "ages": [
+    "9.0"
+   ],
+   "unicode_version": "9.0",
+   "emoji": [
+    true
+   ],
+   "emoji_presentation": [
+    true
+   ],
+   "emoji_status": "fully-qualified",
+   "emoji_name": "wilted flower",
+   "alt_code": null
+  },
+  {
+   "id": "sym_01176",
+   "text": "⚘",
+   "categories": [
+    "Flowers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2698"
+   ],
+   "unicode_names": [
+    "FLOWER"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Miscellaneous Symbols"
+   ],
+   "ages": [
+    "4.1"
+   ],
+   "unicode_version": "4.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01177",
+   "text": "✽",
+   "categories": [
+    "Flowers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+273D"
+   ],
+   "unicode_names": [
+    "HEAVY TEARDROP-SPOKED ASTERISK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01178",
+   "text": "❉",
+   "categories": [
+    "Flowers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+2749"
+   ],
+   "unicode_names": [
+    "BALLOON-SPOKED ASTERISK"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Dingbats"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01179",
+   "text": "⊰",
+   "categories": [
+    "Flowers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+22B0"
+   ],
+   "unicode_names": [
+    "PRECEDES UNDER RELATION"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01180",
+   "text": "⊱",
+   "categories": [
+    "Flowers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+22B1"
+   ],
+   "unicode_names": [
+    "SUCCEEDS UNDER RELATION"
+   ],
+   "general_categories": [
+    "Sm"
+   ],
+   "blocks": [
+    "Mathematical Operators"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  },
+  {
+   "id": "sym_01181",
+   "text": "۞",
+   "categories": [
+    "Flowers"
+   ],
+   "length": 1,
+   "codepoints": [
+    "U+06DE"
+   ],
+   "unicode_names": [
+    "ARABIC START OF RUB EL HIZB"
+   ],
+   "general_categories": [
+    "So"
+   ],
+   "blocks": [
+    "Arabic"
+   ],
+   "ages": [
+    "1.1"
+   ],
+   "unicode_version": "1.1",
+   "emoji": [
+    false
+   ],
+   "emoji_presentation": [
+    false
+   ],
+   "emoji_status": null,
+   "emoji_name": null,
+   "alt_code": null
+  }
+ ]
+}
