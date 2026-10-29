@@ -1,5 +1,7 @@
 # copy-paste symbols
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23776170.svg)](https://doi.org/10.5281/zenodo.23776170)
+
 **1,275 copy-and-paste symbols in 23 categories — hearts, heart combos, stars, arrows,
 brackets, math, currency and more — with category names in six languages and Unicode facts
 for every code point.**
